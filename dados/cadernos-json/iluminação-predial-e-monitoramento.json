@@ -1,0 +1,646 @@
+{
+  "105555": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 99,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária.\n- Bloco autônomo de iluminação de emergência com dois refletores",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária de emergência presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local de instalação da luminária, próximo a uma tomada;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 99\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Fixa-se a luminária de emergência através de parafusos;\n- Em seguida é feita a conexão do plug da luminária à tomada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Acompanha acessórios de fixação (parafusos e buchas)",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 100\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- Catálogo Técnico – Luminárias – Lumibras.\n- Catálogo Técnico – Luminárias e lâmpadas – Taschibra.\n- Catálogo Técnico – Luminárias – Elgin.\n- Catálogo Técnico – Câmeras – Intelbras.\n- Catálogo Técnico – Câmeras – Tecvoz.\n- Catálogo Técnico – Luminárias e lâmpadas - Save Energy.\n- Catálogo Técnico – Perfis de Luminárias, Fitas LED, Fonte de alimentação – Nordecor.\n- Catálogo Técnico – Lâmpada - Avant Deluxe.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 101"
+    }
+  },
+  "97603": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 21,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera;\n- Câmera de monitoramento tipo BULLET.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera tipo BULLET presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 21\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Parafusa-se a câmera no local definido;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 22"
+    }
+  },
+  "97602": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 19,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera;\n- Câmera de monitoramento tipo DOME.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera Dome presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Parafusa-se a câmera no local definido;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 20"
+    }
+  },
+  "97604": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 23,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera;\n- Câmera de monitoramento tipo BULLET.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera tipo BULLET presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Parafusa-se a câmera no local definido;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 24"
+    }
+  },
+  "105553": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 95,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera.\n- Câmera de monitoramento tipo IP BULLET.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera IP Bullet presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 95\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Parafusa-se a câmera no local definido;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado;\n- Configura-se a câmera a rede de monitoramento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 96"
+    }
+  },
+  "105552": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 93,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera.\n- Câmera de monitoramento tipo IP DOME.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera IP Dome presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 93\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Parafusa-se a câmera no local definido;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado;\n- Configura-se a câmera a rede de monitoramento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 94"
+    }
+  },
+  "105550": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 89,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera.\n- Câmera de monitoramento tipo SPEED DOME.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera Speed Dome presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 89\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Parafusa-se a câmera no local definido;\n- Conecta-se a câmera a fonte eletrônica;\n- Com os cabos da rede elétrica e de lógica já instalados, eles são conectados à câmera;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado;\n- Configura-se a câmera a rede de monitoramento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 90"
+    }
+  },
+  "105551": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 91,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da câmera.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da câmera.\n- Câmera de monitoramento tipo WIFI.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de câmera wifi presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- A altura de trabalho não se mostrou um fator determinante de produtividade. A altura máxima de\ninstalação acompanhada foi de 3,60m;\n- As produtividades contemplam as interligações de cabos (elétricos e de dados) e a fixação da câmera\natravés de parafusos;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 91\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Observou-se influência das dimensões físicas do insumo na produtividade aferida (sendo que quanto\nmaior a câmera, maior o tempo de instalação).",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local da instalação;\n- Parafusa-se a câmera no local definido;\n- Conecta-se a câmera a fonte eletrônica;\n- Posiciona-se a câmera de acordo com o ponto a ser monitorado;\n- Configura-se a câmera à rede WIFI e à rede de monitoramento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 92"
+    }
+  },
+  "105549": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 87,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do Driver para fita LED;\n- Auxiliar de eletricista: auxilia ao oficial na instalação do Driver para Fita LED;\n- Driver para fita LED.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de driver para fita presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.\n- Foi considerado esforço de ligação do driver com a fita LED\nILUMINAÇÃO PREDIAL E MONITORAMENTO 87\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Instalação da fonte de alimentação do LED (driver slim para fita LED);\n- Ligação com a Fita LED.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 88"
+    }
+  },
+  "105547": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 83,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da Fita LED;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da Fita LED;\n- Fita LED.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento de fita LED presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição e corte da fita.",
+      "7": "7. EXECUÇÃO\n- Medições e marcações;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 83\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Cortes, quando necessário, na fita;\n- Fixação da Fita LED auto adesiva.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 84"
+    }
+  },
+  "97605": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 25,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Arandela tipo meia-lua com vidro fosco para uma lâmpada com potência máxima de 40/60 W;\n- Lâmpada compacta de LED branca, com 6 W e bivolt.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária meia-lua presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 25\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Encaixa-se a lâmpada ao soquete da luminária;\n- Coloca-se o vidro da luminária;\n- Com os cabos da rede elétrica já instalados, eles são conectados à arandela;\n- Fixa-se a luminária à parede através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 26"
+    }
+  },
+  "97607": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 27,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Arandela tipo tartaruga em alumínio com grade, para área externa, para 1 lâmpada com potência\nmáxima de 40/60 W. Lâmpada não inclusa;\n- Lâmpada compacta de LED branca de 6 W e bivolt.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tartaruga presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- ncaixa-se a lâmpada ao soquete da luminária;\n- Coloca-se o vidro e a grelha da luminária;\n- Com os cabos da rede elétrica já instalados, eles são conectados à arandela;\n- Fixa-se a luminária à parede através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 28"
+    }
+  },
+  "97599": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 17,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de emergência com potência de 2 W e uso de bateria de lítio com autonomia de 6 horas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária de emergência presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Verifica-se o local de instalação da luminária, próximo a uma tomada;\n- Fixa-se a luminária de emergência através de parafusos;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 17\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Em seguida é feita a conexão do plug da luminária à tomada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Acompanha acessórios de fixação (parafusos e buchas)",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 18"
+    }
+  },
+  "105542": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 73,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir LED 60x60cm;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária LED de embutir quadrada 60x60cm, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 73\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 74"
+    }
+  },
+  "105543": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 75,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor LED 60x60cm;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária LED de sobrepor quadrada 60x60cm, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 75\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 76"
+    }
+  },
+  "105544": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 77,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária hermética 60x15cm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária hermética, de sobrepor, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 77\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos/presilhas.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 78"
+    }
+  },
+  "100913": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 45,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir para 1 lâmpada LED de 18W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de embutir, com 1 lâmpada, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 45\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 46"
+    }
+  },
+  "100916": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 49,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir para 2 lâmpadas LED de 18W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de embutir, com 2 lâmpadas, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 49\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 50"
+    }
+  },
+  "100918": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 53,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir para 2 lâmpadas LED de 9W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de embutir, com 2 lâmpadas, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 54"
+    }
+  },
+  "100914": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 47,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir para 1 lâmpada LED de 36W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de embutir, com 1 lâmpada, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 47\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 48"
+    }
+  },
+  "100917": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 51,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de embutir para 2 lâmpadas LED de 36W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de embutir, com 2 lâmpadas, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 51\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 52"
+    }
+  },
+  "100907": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 37,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 1 lâmpada LED de 18W;\n- Lâmpada LED tubular",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 1 lâmpada, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 37\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução; - Foi considerado esforço de marcação\nda posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 38"
+    }
+  },
+  "102467": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 55,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 1 lâmpadas LED de 9W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 1 lâmpada, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 55\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 56"
+    }
+  },
+  "100910": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 41,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 2 lâmpadas LED de 18W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 2 lâmpadas, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 41\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 42"
+    }
+  },
+  "105541": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 71,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 2 lâmpadas LED de 9W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 2 lâmpadas, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 71\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 72"
+    }
+  },
+  "100908": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 39,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 1 lâmpada LED de 36W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 1 lâmpada, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 39\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 40"
+    }
+  },
+  "100911": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 43,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária de sobrepor para 2 lâmpadas LED de 36W;\n- Lâmpada LED tubular.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária tipo calha, de sobrepor, com 2 lâmpadas, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 43\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A calha é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 44"
+    }
+  },
+  "103782": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 57,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon circular de sobrepor.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon circular, com LED 12/13W, de sobrepor, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 57\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- É feita a marcação;\n- Com os cabos da rede elétrica já instalados, eles são conectados a luminária;\n- Fixa-se a luminária ao teto através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 58"
+    }
+  },
+  "103786": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 65,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de embutir com LED de 12w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada,com LED 12W, de embutir, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 65\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 66"
+    }
+  },
+  "103787": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 67,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de embutir com LED de 18w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada, com LED 18W, de embutir, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 67\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 68"
+    }
+  },
+  "103788": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 69,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de embutir com LED de 24w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada, com LED 24W, de embutir, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 69\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 70"
+    }
+  },
+  "103783": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 59,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de sobrepor com LED de 12w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada, com LED 12W de sobrepor, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 59\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 60"
+    }
+  },
+  "103784": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 61,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de sobrepor com LED de 18w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada, com LED 18W, de sobrepor, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 61\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 62"
+    }
+  },
+  "103785": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 63,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo plafon quadrada de sobrepor com LED de 24w.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo plafon quadrada, com LED 24W, de sobrepor, presente no\nprojeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 63\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 64"
+    }
+  },
+  "105546": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 81,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo spot de embutir para 1 lâmpada LED;\n- Lâmpada LED PAR 20.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo spot para 1 lâmpada, de embutir, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 81\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária e corte no forro para seu encaixe.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária embutida, é feita a marcação no forro;\n- Em seguida, é feito o corte do forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é encaixada no forro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 82"
+    }
+  },
+  "105545": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 79,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da luminária;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da luminária;\n- Luminária tipo spot de sobrepor para 1 lâmpada LED;\n- Lâmpada LED PAR 20.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de luminária do tipo spot para 1 lâmpada, de sobrepor, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 79\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição da luminária.",
+      "7": "7. EXECUÇÃO\n- Para a instalação da luminária de sobrepor, é feita a marcação no forro;\n- Os cabos elétricos, já instalados na rede, são conectados a luminária;\n- A luminária é fixada através de parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 80"
+    }
+  },
+  "97610": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 31,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da lâmpada;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da lâmpada;\n- Lâmpada LED 10 W compacta para base E27, branca;\n- Soquete base E27, de baquelite, para lâmpadas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de lâmpada compacta LED 10W presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 31\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Conecta-se o soquete aos cabos da rede elétrica já instalados;\n- Rosqueia-se a lâmpada ao soquete.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 32"
+    }
+  },
+  "97609": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 29,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da lâmpada;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da lâmpada;\n- Lâmpada LED 6 W compacta para base E27, branca;\n- Soquete base E27, de baquelite, para lâmpadas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de lâmpada compacta LED 6W presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 29\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Conecta-se o soquete aos cabos da rede elétrica já instalados;\n- Rosqueia-se a lâmpada ao soquete.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 30"
+    }
+  },
+  "105554": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 97,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da lâmpada.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da lâmpada.\n- Lâmpada LED tubular 9/10W para base G13.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de lâmpada LED tubular 9/10W presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Encaixa-se a lâmpada às bases G13.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 97\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 98"
+    }
+  },
+  "100903": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 35,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da lâmpada;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da lâmpada;\n- Lâmpada LED tubular 18/20W para base G13;\n- Soquete base G13 de baquelite para lâmpadas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de lâmpada LED tubular 18/20W, para base G13, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Conectam-se os cabos da rede elétrica já instalados com os soquetes;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 35\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Encaixa-se a lâmpada às bases G13.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 45169: SOQUETE BASE G13, PARA LAMPADA TUBULAR (2 UN) substituído por: INSUMO 12295\n(2 UN);\nILUMINAÇÃO PREDIAL E MONITORAMENTO 36"
+    }
+  },
+  "100902": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 33,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação da lâmpada;\n- Auxiliar de eletricista: auxilia ao oficial na instalação da lâmpada;\n- Lâmpada LED tubular 9/10W para base G13;\n- Soquete base G13 de baquelite para lâmpadas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de lâmpada LED tubular 9/10W, para base G13, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.",
+      "7": "7. EXECUÇÃO\n- Conectam-se os cabos da rede elétrica já instalados com os soquetes;\nILUMINAÇÃO PREDIAL E MONITORAMENTO 33\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Encaixa-se a lâmpada às bases G13.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 45169: SOQUETE BASE G13, PARA LAMPADA TUBULAR (2 UN) substituído por: INSUMO 12295\n(2 UN);\nILUMINAÇÃO PREDIAL E MONITORAMENTO 34"
+    }
+  },
+  "105548": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 85,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do perfil com Fita LED.\n- Auxiliar de eletricista: auxilia ao oficial na instalação da Fita LED.\n- Perfil e Fita LED.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento de perfil para fita LED presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução.\n- Foi considerado esforço de marcação da posição e corte do perfil\nILUMINAÇÃO PREDIAL E MONITORAMENTO 85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Medições e marcações;\n- Cortes, quando necessário, na peça;\n- Fixação do perfil;\n- Fixação da Fita LED auto adesiva;\n- Fechamento com a capa do perfil.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 86"
+    }
+  },
+  "97595": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 9,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do sensor;\n- Auxiliar de eletricista: auxilia ao oficial na instalação do sensor;\n- Sensor de presença de parede com fotocélula, para qualquer tipo de lâmpada, com potência máxima de\n1000 W. Para uso interno.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de sensor com fotocélula, presente no projeto.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição e abertura de rasgo para o sensor.",
+      "7": "7. EXECUÇÃO\n- Para a instalação do sensor de presença é necessário fazer a marcação no lugar onde ele será\nposicionado;\n- Em seguida é feito o corte;\n- Com os cabos da rede elétrica já instalados, eles são conectados ao sensor;\n- Encaixa-se o sensor.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 10"
+    }
+  },
+  "97597": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 13,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do sensor;\n- Auxiliar de eletricista: auxilia ao oficial na instalação do sensor;\n- Sensor de presença de teto com fotocélula, para qualquer tipo de lâmpada, com potência máxima de\n1000 W. Para uso interno.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de sensor com fotocélula, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição e abertura de rasgo para o sensor.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação do sensor de presença é necessário fazer a marcação no lugar onde ele será\nposicionado;\n- Em seguida é feito o corte;\n- Com os cabos da rede elétrica já instalados, eles são conectados ao sensor;\n- Encaixa-se o sensor.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 14"
+    }
+  },
+  "97596": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 11,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do sensor;\n- Auxiliar de eletricista: auxilia ao oficial na instalação do sensor;\n- Sensor de presença de parede sem fotocélula, para qualquer tipo de lâmpada, com potência máxima de\n1000 W. Para uso interno.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de sensor sem fotocélula, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição e abertura de rasgo para o sensor.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação do sensor de presença é necessário fazer a marcação no lugar onde ele será\nposicionado;\n- Em seguida é feito o corte;\n- Com os cabos da rede elétrica já instalados, eles são conectados ao sensor;\n- Encaixa-se o sensor.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 12"
+    }
+  },
+  "97598": {
+    "caderno": "Iluminação Predial e Monitoramento",
+    "arquivo": "SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
+    "pagina_inicial": 15,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Eletricista: oficial responsável pela instalação do sensor;\n- Auxiliar de eletricista: auxilia ao oficial na instalação do sensor;\n- Sensor de presença de teto sem fotocélula, para qualquer tipo de lâmpada, com potência máxima de\n1000 W. Para uso interno.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de sensor sem fotocélula, presente no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado que o ajudante é responsável também\npelo transporte horizontal do material no andar de execução;\n- Foi considerado esforço de marcação da posição e abertura de rasgo para o sensor.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Para a instalação do sensor de presença é necessário fazer a marcação no lugar onde ele será\nposicionado;\n- Em seguida é feito o corte;\n- Com os cabos da rede elétrica já instalados, eles são conectados ao sensor;\n- Encaixa-se o sensor.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nILUMINAÇÃO PREDIAL E MONITORAMENTO 16"
+    }
+  }
+}

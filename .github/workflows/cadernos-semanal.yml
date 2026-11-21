@@ -1,0 +1,64 @@
+name: Cadernos técnicos SINAPI (semanal)
+
+# A Caixa atualiza os cadernos técnicos de tempos em tempos (normalmente junto com as bases que
+# trazem composições novas). O robô confere toda segunda e também roda quando chamado manualmente.
+on:
+  schedule:
+    - cron: "0 10 * * 1"   # segunda-feira às 07:00 (horário de Brasília)
+  workflow_dispatch:
+    inputs:
+      reprocessar:
+        description: "Reprocessar todos os cadernos"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: cadernos
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: |
+          pip install pdfplumber playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Verificar e processar cadernos
+        env:
+          REPROCESSAR: ${{ inputs.reprocessar }}
+        run: python scripts/atualizar_cadernos.py
+
+      - name: Salvar no repositório
+        if: always()
+        run: |
+          git config user.name "robo-cadernos"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --cached --quiet; then echo "Nada novo."; else
+            git commit -m "Cadernos técnicos: atualização automática $(date -u +%Y-%m-%d)"; git push; fi
+
+      - name: Avisar por e-mail (issue)
+        if: always() && hashFiles('saida/novidades.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "$(cat saida/titulo.txt)" --body-file saida/novidades.md --assignee engmiltonjose
+
+      - name: Avisar falha inesperada
+        if: failure() && hashFiles('saida/novidades.md') == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --assignee engmiltonjose --title "❌ Robô dos cadernos técnicos falhou antes do relatório" --body "Veja o log: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"

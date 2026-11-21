@@ -1,0 +1,632 @@
+{
+  "103689": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 9,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação das placas;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Placa de obra (para construção civil) em chapa galvanizada *n. 22*, adesivada, de *2,0 x 1,125* m,\npara instalação;\n- Prego de aço polido com cabeça 17 x 27 (2 1/2 x 11): para fixação do quadro na estrutura suporte;\n- Sarrafo *2,5 x 10* cm em pinus; utilizado para compor o quadro que dará maior rigidez à placa;\n- Prego telheiro 18 x 30 polido, para fixação na estrutura suporte (*Insumo substituído, ver item 8 –\nPendências);\n- Pintura imunizante para madeira: tratamento da madeira do quadro.\nSINALIZAÇÃO VERTICAL VIÁRIA 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de obra, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa de obra;\n- Para esta composição, foi considerada para o insumo da placa de obra, uma largura de 1,2 m, e\ncomprimento de 2,4 m;\n- Foi considerada que a placa de obra tem, aproximadamente, 2,88 m² de área;\n- Para esta composição foi considerada a fixação com pregos da placa diretamente na estrutura suporte,\nseja ela um tapume ou cavalete de madeira (a estrutura suporte não está contemplada na composição).",
+      "7": "7. EXECUÇÃO\n- Fabricação de moldura de madeira composta por sarrafos em todo perímetro da placa, incluindo um\nsarrafo fixado no meio dela, a fim de se obter maior rigidez do conjunto;\n- Posteriormente este quadro de madeira é tradado com pintura imunizante para madeira, e pregado na\nplaca com pregos;\n- Em seguida, a placa é fixada na estrutura suporte da obra com pregos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Ver figura 1 no Anexo.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44623: PREGO TELHEIRO EM ACO GALVANIZADO, CORPO ARDOX POLIDO, 18 X 30, CABECA\nCONICA, COM ARRUELA METALICA E BORRACHA PARA VEDACAO, CORPO ESPIRALADO (ARDOX)\n(0,0113 KG) substituído por: INSUMO 5065 (0,0113 KG);\nSINALIZAÇÃO VERTICAL VIÁRIA 10"
+    }
+  },
+  "103702": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 35,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação de placa;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Placa de advertência de alumínio com espessura de 1,5mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados;\n- Fita aço inox para cintar poste, l = 19 mm, e = 0,5 mm (rolo de 30m);\n- Suporte Braquete;\nSINALIZAÇÃO VERTICAL VIÁRIA 35\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Fecho dentado para cinta/fita metálica em aço inox.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa de sinalização;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Esta composição é válida para trabalho diurno.\n- Foi considerado para esta composição, suporte de concreto, com diâmetro de aproximadamente de 0,35\nm;\n- Foi considerado para a cinta metálica, 2 voltas no suporte de concreto, com perda de 10%, divido pela\nárea da placa (0,25 m²);\n- Foi considerado para esta composição, 2 unidades de suporte braquete e 2 unidades de fechos dentados\ndividido pela área da placa (0,25 m²);\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Parafusar a placa nos suportes braquete;\n- Passar a cinta sobre os suportes braquete e em seguida, passar a cinta sobre o suporte de concreto e\nfinalizar com o fecho dentado.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 36"
+    }
+  },
+  "103700": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 31,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação das placas em suporte de\nmadeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Placa de advertência de alumínio com espessura de 1,5mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados;\n- Prego de aço polido com cabeça 17 x 27 (2 1/2 x 11): utilizado para fixar a placa no suporte de\nmadeira.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.\nSINALIZAÇÃO VERTICAL VIÁRIA 31\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa de sinalização;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Foram considerados 2 pregos para instalação;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Instalar a placa sobre o suporte de madeira pré-tratado e fixar com pregos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 32"
+    }
+  },
+  "103698": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 27,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação da placa;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Abraçadeira para placas viárias (com porcas e arruelas) - 40 cm;\n- Placa de advertência de alumínio com espessura de 1,5mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa no suporte metálico;\n- Foram considerados 4 parafusos na abraçadeira;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Aparafusar a abraçadeira na placa, e em seguida, no suporte metálico.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 28"
+    }
+  },
+  "103703": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 37,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação de placa;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Placa de advertência em chapa de aço com espessura de 1,25mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados;\n- Fita aço inox para cintar poste, l = 19 mm, e = 0,5 mm (rolo de 30m);\n- Suporte Braquete;\nSINALIZAÇÃO VERTICAL VIÁRIA 37\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Fecho dentado para cinta/fita metálica em aço inox.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa de sinalização;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Esta composição é válida para trabalho diurno;\n- Foi considerado para esta composição, suporte de concreto, com diâmetro de aproximadamente de 0,35\nm;\n- Foi considerado para a cinta metálica, 2 voltas no suporte de concreto, com perda de 10%, divido pela\nárea da placa (0,25 m²);\n- Foi considerado para esta composição, 2 unidades de suporte braquete e 2 unidades de fechos dentados\ndividido pela área da placa (0,25 m²);\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Parafusar a placa nos suportes braquete;\n- Passar a cinta sobre os suportes braquete e em seguida, passar a cinta sobre o suporte de concreto e\nfinalizar com o fecho dentado.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 38"
+    }
+  },
+  "103701": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 33,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação das placas em suporte de\nmadeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Placa de advertência em chapa de aço com espessura de 1,25mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados;\n- Prego de aço polido com cabeça 17 x 27 (2 1/2 x 11): utilizado para fixar a placa no suporte de\nmadeira.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.\nSINALIZAÇÃO VERTICAL VIÁRIA 33\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa de sinalização;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Foram considerados 2 pregos para instalação;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Instalar a placa sobre o suporte de madeira pré-tratado e fixar com pregos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 34"
+    }
+  },
+  "103699": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 29,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação da placa;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Abraçadeira para placas viárias (com porcas e arruelas) - 40 cm;\n- Placa de advertência em chapa de aço com espessura de 1,25mm e película retrorrefletiva tipo I, com\nmicroprismas não metalizados.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 29\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação da placa no suporte metálico;\n- Foram considerados 4 parafusos na abraçadeira;\n- Foi considerada que a placa tem 0,25 m²; com dimensões de 0,5 m x 0,5 m;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Aparafusar a abraçadeira na placa, e em seguida, no suporte metálico.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 30"
+    }
+  },
+  "103704": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 39,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação de placa;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Guindauto hidráulico: equipamento utilizado para içamento das placas;\n- Placa de sinalização para pórtico com kit de fixação.\nSINALIZAÇÃO VERTICAL VIÁRIA 39\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área da placa de sinalização, em m², a ser efetivamente instalada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação das placas de sinalização;\n- Foi considerado que o insumo de placas contemple todo o kit de fixação (com cantoneiras, parafusos,\nporcas e arruelas);\n- Foi considerada que a placa tem, aproximadamente, 8 m²;\n- Foi considerado que o pórtico tem altura de 7,8 m;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Esta composição é válida para trabalho diurno.",
+      "7": "7. EXECUÇÃO\n- Preparar a placa a ser instalada, com o seu kit de fixação e cintas para seu içamento com o guindauto;\n- Suspender a placa até o pórtico no local exato onde será fixado;\n- Com a placa sobre o pórtico, realizar a fixação.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 40"
+    }
+  },
+  "103706": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 43,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 10,3 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 43\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça, com os parafusos, porcas e arruelas., manualmente;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 44"
+    }
+  },
+  "103707": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 45,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 11,4 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 45\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 46"
+    }
+  },
+  "103708": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 47,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 12,5 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 47\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 48"
+    }
+  },
+  "103709": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 49,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 13,6 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 49\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 50"
+    }
+  },
+  "103710": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 51,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 14,8 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 51\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 52"
+    }
+  },
+  "103711": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 53,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 15,9 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 54"
+    }
+  },
+  "103712": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 55,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 17 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 55\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 56"
+    }
+  },
+  "103713": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 57,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 18,1 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 57\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 58"
+    }
+  },
+  "103714": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 59,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 19,2 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 59\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários ) envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 60"
+    }
+  },
+  "103715": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 61,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 20,3 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 61\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 62"
+    }
+  },
+  "103716": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 63,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 21,5 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 63\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 64"
+    }
+  },
+  "103717": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 65,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 22,6 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 65\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 66"
+    }
+  },
+  "103718": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 67,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 23,7 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 67\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 68"
+    }
+  },
+  "103719": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 69,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 24,8 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 69\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 70"
+    }
+  },
+  "103720": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 71,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 26 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 71\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários) envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 72"
+    }
+  },
+  "103721": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 73,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 27,1 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 73\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 74"
+    }
+  },
+  "103705": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 41,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Pórtico metálico para vão de 9,2 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 41\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça, com os parafusos, porcas e arruelas., manualmente;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 42"
+    }
+  },
+  "103722": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 75,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico duplo metálico para vão de 2,7 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 75\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 76"
+    }
+  },
+  "103723": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 77,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico duplo metálico para vão de 3,8 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 77\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 78"
+    }
+  },
+  "103724": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 79,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico suplo metálico para vão de 4,9 m e vento de 40 m/s incluindo parafusos, porcas e arruelas.\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 79\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 80"
+    }
+  },
+  "103725": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 81,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico duplo para vão de 6 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 81\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 82"
+    }
+  },
+  "103726": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 83,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico duplo metálico para vão de 7,2 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 83\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 84"
+    }
+  },
+  "103727": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 85,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico duplo metálico para vão de 8,3 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 86"
+    }
+  },
+  "103728": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 87,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 2,7 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 87\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 88"
+    }
+  },
+  "103729": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 89,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 3,8 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 89\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 90"
+    }
+  },
+  "103730": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 91,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 4,9 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 91\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operáriosenvolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 92"
+    }
+  },
+  "103731": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 93,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 6 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 93\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 94"
+    }
+  },
+  "103732": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 95,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 7,2 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 95\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 96"
+    }
+  },
+  "103733": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 97,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do pórtico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Semi-pórtico metálico para vão de 8,3 m e vento de 40 m/s incluindo parafusos, porcas e arruelas;\n- Guindauto hidráulico: equipamento utilizado para içamento da estrutura.\nSINALIZAÇÃO VERTICAL VIÁRIA 97\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Guindauto hidráulico, capacidade máxima de carga 6200 kg, momento máximo de carga 11,7 tf.m,\nalcance máximo horizontal 9,70 m, inclusive caminhão.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de semi-pórtico a ser instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do pórtico;\n- Esta composição é válida para trabalho diurno;\n- Para esta composição, o insumo de pórtico já contempla os custos de todo kit de fixação, incluindo\ncolunas tubulares, treliça, parafusos, porcas e arruelas;\n- Para esta composição não foi contemplado o serviço de fundação, para tal serviço, utilizar composições\nespecíficas;\n- Esta composição não contempla serviços de segurança e interdição de vias;\n- CHP: considera os tempos em que o equipamento está ligado para a execução do serviço;\n- CHI: considera os tempos em que o equipamento está parado;\n- Foi considerado que a instalação do pórtico para diferentes ventos tenha o mesmo esforço em termos de\nprodutividade.",
+      "7": "7. EXECUÇÃO\n- Após a realização da fundação, é realizado a instalação dos postes de sustentação através de\nchumbadores já instalados;\n- É realizada a pré-montagem da treliça manualmente, com os parafusos, porcas e arruelas;\n- Posteriormente, a treliça é içada até o topo do poste, encaixando nas suas laterais, e fixada com os\nparafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 98\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- CONSELHO NACIONAL DE TRÂNSITO - CONTRAN. Sinalização vertical de regulamentação, Contran-\nDenatran, Brasília, 2005.\nSINALIZAÇÃO VERTICAL VIÁRIA 99\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nV. ANEXOS\nANEXO 1: Placa de obra\nSINALIZAÇÃO VERTICAL VIÁRIA 100"
+    }
+  },
+  "103696": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 23,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação do suporte de madeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar;\n- Pontalete *7,5 x 7,5* cm em pinus, para suporte; de 3,63 metros;\n- Pintura fundo nivelador alquídico branco em madeira.\n- Pintura tinta de acabamento (pigmentada) esmalte sintético fosco em madeira, 2 demãos.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte, a ser efetivamente instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operáriosenvolvidos com a\ninstalação do suporte de madeira;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Realizar pintura do pontalete com fundo nivelador alquídico e pintura de acabamento com 2 demãos de\nesmalte sintético;\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo concretado, com a profundidade de 0,80 cm;\n- Instalar o suporte de madeira;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 cm, e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 24"
+    }
+  },
+  "103697": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 25,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação do suporte de madeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar;\n- Pontalete *7,5 x 7,5* cm em pinus, para suporte; de 3,8 metros;\n- Pintura fundo nivelador alquídico branco em madeira;\n- Pintura tinta de acabamento (pigmentada) esmalte sintético fosco em madeira, 2 demãos.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 25\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte, a ser efetivamente instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte de madeira;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Realizar pintura do pontalete com fundo nivelador alquídico e pintura de acabamento com 2 demãos de\nesmalte sintético;\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo concretado, com a profundidade de 0,80 cm;\n- Instalar o suporte de madeira;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 cm, e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 26"
+    }
+  },
+  "103695": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 21,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação do suporte de madeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar;\n- Pontalete *7,5 x 7,5* cm em pinus, para suporte; de 3,08 metros;\n- Pintura fundo nivelador alquídico branco em madeira;\n- Pintura tinta de acabamento (pigmentada) esmalte sintético fosco em madeira, 2 demãos.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 21\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte, a ser efetivamente instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte de madeira;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Realizar pintura do pontalete com fundo nivelador alquídico e pintura de acabamento com 2 demãos de\nesmalte sintético;\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo, com a profundidade de 0,80 cm;\n- Instalar o suporte de madeira;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 cm, e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 22"
+    }
+  },
+  "103694": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 19,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Carpinteiro: Profissional responsável por executar o serviço de instalação do suporte de madeira;\n- Servente: profissional que auxilia o carpinteiro em suas tarefas;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar;\n- Pontalete *7,5 x 7,5* cm em pinus, para suporte; de 3,63 metros;\n- Pintura fundo nivelador alquídico branco em madeira;\n- Pintura tinta de acabamento (pigmentada) esmalte sintético fosco em madeira, 2 demãos.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte, a ser efetivamente instalado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte de madeira;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Realizar pintura do pontalete com fundo nivelador alquídico e pintura de acabamento com 2 demãos de\nesmalte sintético;\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo, com a profundidade de 0,80 cm;\n- Instalar o suporte de madeira;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 cm, e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 20"
+    }
+  },
+  "103690": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 11,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do suporte metálico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Suporte (poste) em aço galvanizado de 3,3 metros; para instalação;\n- Concreto fck 15Mpa, traço 1:3,4:3,4 para chumbar.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte, a ser efetivamente instalado.\nSINALIZAÇÃO VERTICAL VIÁRIA 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte metálico;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo, com a profundidade de 0,80 m;\n- Instalar o suporte;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 m e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 12"
+    }
+  },
+  "103693": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 17,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do suporte metálico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Suporte (poste) em aço galvanizado de 2,8 metros para instalação;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte a ser efetivamente instalado.\nSINALIZAÇÃO VERTICAL VIÁRIA 17\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte metálico;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo concretado, com a profundidade de 0,80 m;\n- Instalar o suporte;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 m e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 18"
+    }
+  },
+  "103692": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 15,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do suporte metálico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Suporte (poste) em aço galvanizado de 3,3 metros; para instalação;\n- Concreto fck = 15mpa, traço 1:3,4:3,4 para chumbar.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte a ser efetivamente instalado.\nSINALIZAÇÃO VERTICAL VIÁRIA 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operáriosenvolvidos com a\ninstalação do suporte metálico;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Verificar o local indicado pelo projeto para instalação do suporte.\n- Realizar a escavação no solo concretado, com a profundidade de 0,80 m.\n- Instalar o suporte.\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 m e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 16"
+    }
+  },
+  "103691": {
+    "caderno": "Sinalização Vertical Viária",
+    "arquivo": "SINAPI-CT-SINALIZACAO-VERTICAL-VIARIA.pdf",
+    "pagina_inicial": 13,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador: Profissional responsável por executar o serviço de instalação do suporte metálico;\n- Servente: profissional que auxilia o montador em suas tarefas;\n- Suporte (poste) em aço galvanizado de 2,8 metros: para instalação;\n- Concreto fck =5MPa, traço 1:3,4:3,4 para chumbar.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de suporte a ser efetivamente instalado.\nSINALIZAÇÃO VERTICAL VIÁRIA 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos com a\ninstalação do suporte metálico;\n- Considerou-se, para o cálculo do consumo do concreto, o volume utilizado na implantação, a\nprofundidade de 0,30, de acordo com a NBR 14.962;\n- Esta composição considerou o esforço da escavação em área de solo, com profundidade de 0,80 m;\n- Para casos de profundidades diferentes, consultar a NBR 14.962;\n- Esta composição é válida para trabalho diurno;\n- Esta composição não considera transporte com caminhão carroceria, para tanto, deve-se utilizar as\ncomposições de transporte.",
+      "7": "7. EXECUÇÃO\n- Verificar o local indicado pelo projeto para instalação do suporte;\n- Realizar a escavação no solo concretado, com a profundidade de 0,80 m;\n- Instalar o suporte;\n- Realizar o reaterro com o solo removido e aplicar o concreto em 0,30 m e realizar o acabamento.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO VERTICAL VIÁRIA 14"
+    }
+  }
+}
