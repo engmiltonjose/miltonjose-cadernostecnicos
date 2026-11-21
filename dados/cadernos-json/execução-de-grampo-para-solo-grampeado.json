@@ -1,86 +1,372 @@
 {
-  "93961": {
+  "107255": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 14,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 16\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 17"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   },
-  "93971": {
+  "107688": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 26,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 28\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 29\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- HACHICH, W. et al. Fundações: teoria e prática. 2ª edição. Editora Pini. São Paulo, 1998.\n- SOLOTRAT ENGENHARIA GEOTÉCNICA. Manual de Serviços Geotécnicos Solotrat. 6ª edição. São Paulo,\n2018.\n- SOLOTRAT ENGENHARIA GEOTÉCNICA. Solo Grampeado. Disponível em: <\nhttps://www.solotrat.com.br/pdf/solo-grampeado-solotrat.pdf>. Acessado em: 10 de outubro de 2023.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 30"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   },
-  "93959": {
+  "107689": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 10,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 12\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 13"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   },
-  "93969": {
+  "107686": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 22,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 24\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 25"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   },
-  "93957": {
+  "107687": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 6,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 7\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 8\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 9"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   },
-  "93967": {
+  "107684": {
     "caderno": "Execução de Grampo para Solo Grampeado",
     "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
-    "pagina_inicial": 18,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Engenheiro civil de obra pleno: profissional que coordena e auxilia a equipe em todas as atividades de\nexecução do grampo;\n- Encarregado geral: profissional que coordena e auxilia a equipe em todas as atividades de execução do\ngrampo;\n- Armador: profissional que monta e instala o tirante;\n- Ajudante de armador: profissional que ajuda o oficial na execução do serviço;\n- Servente: profissional que ajuda o encarregado e o operador com o posicionamento dos equipamentos e\nexecução;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Perfuratriz manual: equipamento para execução de furo no solo sem apoio fixo, com um motor para\nrotação, mas que depende de força humana para perfuração;\n- Bomba centrífuga: equipamento utilizado para pressurizar a água utilizada na perfuração do grampo, é\nutilizado simultaneamente com a perfuratriz;\n- Misturador e agitador: equipamento para misturar o cimento com a água formando a calda de cimento\npara injeção. Serve, também, para manter a calda em suspensão;\n- Bomba de injeção: equipamento para injeção, com pressão, da calda de cimento no furo;\n- Fornecimento de água com caminhão pipa: utilizada juntamente com a perfuratriz durante a etapa de\nperfuração;\n- Cimento: utilizado para preparo da calda de cimento;\n- Aço CA - 50 e pintura protetora: vergalhão de aço no diâmetro especificado para armadura do grampo;\n- Tubo/mangueira de polietileno - Ø ½\" tubo para injeção perdido;\n- Centralizador: espaçador que centraliza a armadura no furo;\n- Escavadeira hidráulica: utilizada para remoção e ajustes do solo da parede a ser contida;\n- Retirada de terra escavada proveniente da perfuração do grampo: carga e descarga mecânica de solo, e\ntransporte local, utilizando caminhão basculante.",
-      "4": "4. EQUIPAMENTOS\n- Perfuratriz manual - Torque máximo de 83 N.m, potência de 5 CV e diâmetro de até 4\";\n- Bomba centrífuga monoestágio com motor elétrico monofásico, potência 15 hp, diâmetro do rotor 173\nmm, hm/q = 30 mca / 90 m³/h a 45 mca / 55 m³/h;\n- Misturador duplo horizontal de alta turbulência, capacidade / volume 2 x 500 litros, motores elétricos\nmínimo 5 CV cada, para nata cimento, argamassa e outros;\n- Bomba triplex, para injeção de nata de cimento, vazão máxima de 100 litros/minuto, pressão máxima\nde 70 bar;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água;\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m³, peso operacional 17 T, potencia bruta 111 HP;\n- Caminhão pipa 6.000 l trucado, peso bruto total 13.000 kg, carga útil máxima 7.925 kg, distância\nentre eixos 4,8 m, potência 189 CV, inclusive tanque de aço para transporte de água.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de grampos com comprimento, diâmetro e método definidos pela\ncomposição.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Para representar a equipe técnica especializada para o acompanhamento da execução do serviço, foram\nconsiderados dois itens na composição: o encarregado geral, cujo coeficiente representa a existência de\num encarregado por obra; o engenheiro civil de obra pleno, cujo coeficiente representa um engenheiro de\nobra acompanhando 8 obras simultâneas, e um engenheiro coordenador para cada dois engenheiros de\nobra;\n- Foram consideradas o preenchimento da bainha e mais 3 fases de injeção de calda de cimento por tubo\nde injeção perdido;\n- Foi considerado que a armadura possui uma dobra a 90° com 20 cm;\n- A produtividade considera tempo para dobra da armadura com acoplagem de centralizador e tubos de\ninjeção;\n- Foi considerado um volume de água equivalente a 50% sobre a massa de materiais secos para o preparo\nda calda de cimento;\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 20\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- A execução de drenos horizontais profundos não está contemplada neste serviço;\n- Foram separados o tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento da seguinte\nforma:\n- CHP: considera os tempos em que o equipamento está em uso, ou seja:\n- Escavadeira: tempo para escavação;\n- Perfuratriz: tempo para perfuração;\n- Bomba d'água (centrífuga): tempo para perfuração;\n- Caminhão pipa: tempo para perfuração;\n- Misturador e agitador: tempo de preparo e mistura da calda de cimento mais o tempo de injetar a\ncalda de cimento;\n- Bomba de injeção: tempo de injetar a calda de cimento.\n- CHI: considera os demais tempos da jornada de trabalho em que o equipamento não está em uso.",
-      "7": "7. EXECUÇÃO\n- Locação dos furos;\n- Posicionamento do equipamento, observando a inclinação prevista em projeto;\n- Perfuração do solo com diâmetro e comprimento de acordo com projeto;\n- Preparação de calda de cimento e preenchimento da bainha com calda de cimento;\n- Inserção da barra de armadura com centralizador e tubos de injeção perdidos;\n- Após 12 horas, preparação de calda de cimento e execução de 3 injeções através dos tubos perdidos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Se necessário a utilização de andaimes para execução do grampo, adicionar composição especifica de\nmontagem de andaimes.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nEXECUÇÃO DE GRAMPO PARA SOLO GRAMPEADO 21"
-    }
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107685": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107707": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107267": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107706": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107266": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107705": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107265": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107698": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107264": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107701": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107704": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107697": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107263": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107700": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107703": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107696": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107262": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107699": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107702": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107694": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107695": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107260": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107261": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107692": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107693": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107258": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107259": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107690": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107691": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107256": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
+  },
+  "107257": {
+    "caderno": "Execução de Grampo para Solo Grampeado",
+    "arquivo": "SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pagina_inicial": null,
+    "secoes": {},
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-EXECUCAO-DE-GRAMPO-PARA-SOLO-GRAMPEADO.pdf",
+    "pdf_modificado": "Fri, 10 Oct 2025 19:28:16 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:20:41+00:00"
   }
 }

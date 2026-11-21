@@ -1,352 +1,308 @@
 {
-  "103741": {
+  "102500": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 22,
+    "pagina_inicial": 9,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação do balizador;\n- Pedreiro com encargos complementares: oficial responsável pela instalação do balizador;\n- Balizador alta performance com um pino de fixação: dispositivo de sinalização horizontal a ser instalado\nna via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 22\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que o balizador é fixado com um único pino.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação do balizador no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 23"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, utilizada na pintura das faixas;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de faixas de mesma espessura.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Limpar o piso (varredura e lavagem) e aguardar sua completa secagem;\n- Medir com trena e marcar com linha e giz as faixas, círculos e semicírculos;\nempregar gabaritos adequados para as linhas curvas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Executar lixamento leve no local que receberá a tinta (\"quebra do brilho\", com lixa fina N° 200);\n- Diluir tinta acrílica com água, 10% do volume;\n- Aplicar 1ª demão de tinta acrílica diluída com trincha ou rolo de lã dentro das faixas demarcadas;\n- Aplicar de 2 a 3 demãos com intervalo de 4 horas entre demãos;\n- Remover fitas após secagem da última demão.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 10"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103755": {
+  "102502": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 55,
+    "pagina_inicial": 21,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto dupla: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 56\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 57"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, utilizada na pintura das faixas.",
+      "4": "4. EQUIPAMENTOS\n- Máquina demarcadora de faixa de tráfeto à frio, tração manual, 4 cv, pressão max 3300 psi, tanque 20\nl.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 21\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de faixas de mesma espessura.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- Empregar equipamento com reservatório de tinta com capacidade mínima de 20 litros, com dispositivo\nque permita a homogeneização da tinta no interior do reservatório;\no equipamento deve ter capacidade de regulagem da largura da faixa e da demarcação de faixas\ncontínuas ou tracejadas;\n- Limpar o piso (varredura e lavagem) e aguardar sua completa secagem;\n- Medir com trena e marcar com linha e giz as faixas, círculos e semicírculos;\nempregar gabaritos adequados para as linhas curvas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Executar lixamento leve no local que receberá a tinta (\"quebra do brilho\", com lixa fina N° 200);\n- Diluir tinta acrílica com água, 10% do volume;\n- Calibrar o equipamento;\n- Aplicar a tinta com equipamento airless em faixa contínua ou tracejada com máquina de demarcação\nviária empurrada a mão;\n- Aplicar de 2 a 3 demãos com intervalo de 4 horas entre demãos;\n- Remover fitas após secagem da última demão.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 22"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103753": {
+  "102510": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 49,
+    "pagina_inicial": 25,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto dupla: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal:utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 50\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 51"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 25\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Solvente diluente a base de aguarras, para diluição da tinta acrílica a base de solvente;\n- Tinta a base de resina acrilica, para sinalizacao horizontal viaria;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo II-A (Drop-on), a ser dispersa\nimediatamente após aplicação da tinta;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo I-B (Premix), a ser misturada na tinta.",
+      "4": "4. EQUIPAMENTOS\n- Máquina demarcadora de faixa de tráfeto à frio, tração manual, 4 cv, pressão max 3300 psi, tanque 20\nl.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de faixas de mesma espessura.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- A composição é válida para pintura de eixo viário em vias locais, coletoras ou em ciclovias.",
+      "7": "7. EXECUÇÃO\n- Empregar equipamento com reservatório de tinta com capacidade mínima de 20 litros, com dispositivo\nque permita a homogeneização da tinta no interior do reservatório;\no equipamento deve ter capacidade de regulagem da largura da faixa e da demarcação de faixas\ncontínuas ou tracejadas;\n- Preparar tinta e mistura de microesferas no tanque da máquina de demarcação viária de acordo com o\nespecificado;\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Calibração do equipamento;\n- Demarcar faixas com corda e giz;\n- Aplicar a tinta retrorrefletiva com equipamento airless em faixa contínua ou tracejada com máquina de\ndemarcação viária empurrada a mão com jatos para tinta e microesferas.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Podem ser empregados equipamentos que promovam aspersões em separado entre a tinta e as\nmicroesferas de vidro, situação em que a pressurização e a vazão de cada reservatório devem ser\ncalibradas separadamente;\n- Quando especificado emprego de grãos abrasivos, no intuito de aumentar resistência à derrapagem, o\nequipamento deverá ser provido de reservatório próprio, com calibragem compatível com a vazão da\ntinta e das microesferas de vidro;\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 26"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103754": {
+  "102512": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 52,
+    "pagina_inicial": 17,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto simples: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 54"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Solvente diluente a base de aguarras, para diluição da tinta acrílica a base de solvente;\n- Tinta a base de resina acrilica, para sinalizacao horizontal viaria;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 17\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo II-A (Drop-on), a ser dispersa\nimediatamente após aplicação da tinta;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo I-B (Premix), a ser misturada na tinta.",
+      "4": "4. EQUIPAMENTOS\n- Máquina demarcadora de faixa de tráfego à frio, autopropelida, potência 38 HP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de faixas de mesma espessura.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.\n- A composição é válida para pintura de eixo viário em vias ateriais, de trânsito rápído e rodovias.",
+      "7": "7. EXECUÇÃO\n- Empregar equipamento com reservatório de tinta com capacidade mínima de 30 litros, dotado de\nsistema de aquecimento da tinta até que a mesma atinja a viscosidade adequada para aplicação;\no equipamento deve ter capacidade de regulagem da largura da faixa e da demarcação de faixas\ncontínuas ou tracejadas;\n- Preparar tinta e mistura de microesferas no tanque da máquina de demarcação viária de acordo com o\nespecificado;\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Calibração do equipamento;\n- Aplicar a tinta retrorrefletiva com equipamento que produza a tinta elastomérica em faixa contínua ou\ntracejada com máquina de demarcação viária autopropelida, dotada de jato para tinta e microesferas.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Podem ser empregados equipamentos que promovam a aplicação em separado entre a tinta e as\nmicroesferas de vidro, situação em que a velocidade de extrusão do elastômero aquecido e a vazão do\nreservatório de microesferas de vidro devem ser calibradas separadamente;\n- Quando especificado emprego de grãos abrasivos, no intuito de aumentar resistência à derrapagem, o\nequipamento deverá ser provido de reservatório próprio, com calibragem compatível com a vazão da\ntinta e das microesferas de vidro.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 18"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103752": {
+  "102501": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 46,
+    "pagina_inicial": 11,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto simples: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Concreto: Material que irá compor a barreira de concreto;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso para\nposicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 47\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 48"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, utilizada na pintura das faixas;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a execução da pintura;\n- Foram consideradas perdas incorporadas e por entulho no cálculo dos consumos de materiais.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Medir com trena e marcar com linha e giz as faixas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Aplicação de primer promotor de aderência;\n- Diluir tinta em água, 10% do volume;\n- Aplicar 1ª demão de tinta acrílica diluída com trincha ou rolo de lã dentro das faixas demarcadas;\n- Aplicar de 2 a 3 demãos com intervalo de 4 horas entre demãos;\n- Remover fitas após secagem da última demão.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 12"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103759": {
+  "102503": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 67,
+    "pagina_inicial": 23,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto dupla: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 68\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 69\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 70"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, utilizada na pintura das faixas.",
+      "4": "4. EQUIPAMENTOS\n- Máquina demarcadora de faixa de tráfego à frio, tração manual, 4 cv, pressão max 3300 psi, tanque 20\nl.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Empregar equipamento com reservatório de tinta com capacidade mínima de 20 litros, com dispositivo\nque permita a homogeneização da tinta no interior do reservatório;\no equipamento deve ter capacidade de regulagem da largura da faixa e da demarcação de faixas\ncontínuas ou tracejadas;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Medir com trena e marcar com linha e giz as faixas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Aplicação de primer promotor de aderência;\n- Diluir tinta acrílica com água, 10% do volume;\n- Calibrar o equipamento;\n- Aplicar a tinta com equipamento airless com máquina de demarcação viária empurrada a mão;\n- Aplicar de 2 a 3 demãos com intervalo de 4 horas entre demãos;\n- Remover fitas após secagem da última demão.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 24"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103757": {
+  "102508": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 61,
+    "pagina_inicial": 13,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto dupla: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 62\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 63"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Diluente epóxi;\nutilizado na diluição da tinta epóxi;\n- Tinta epoxi premium, branca, para execução das faixas;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas no cálculo de consumo dos insumos.",
+      "7": "7. EXECUÇÃO\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Medir com trena e marcar com linha e giz as faixas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Aplicação de primer promotor de aderência;\n- Misturar componentes A e B da tinta epóxi durante 2 ou 3 minutos, empregando haste helicoidal\nacoplada a equipamento de baixa rotação;\n- Se necessário, em função de orientação do fornecedor, diluir tinta epóxi com diluente, 15% do volume;\n- Aplicar da tinta epóxi com rolo de lã;\n- Aplicar de 2 a 3 demãos com intervalo de 16 horas entre demãos;\n- Remover fitas após secagem da última demão.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- No caso de tintas formuladas com solventes, emprego com uso obrigatório de máscaras especiais;\n- Desaconselhável o emprego em áreas confinadas.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 14"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103758": {
+  "102511": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 64,
+    "pagina_inicial": 27,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto simples: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 65\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 66"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Solvente diluente a base de aguarras, para diluição da tinta acrílica a base de solvente;\n- Tinta a base de resina acrilica, para sinalizacao horizontal viaria;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo II-A (Drop-on), a ser dispersa\nimediatamente após aplicação da tinta;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo I-B (Premix), a ser misturada na tinta.",
+      "4": "4. EQUIPAMENTOS\n- Máquina demarcadora de faixa de tráfego à frio, tração manual, 4 cv, pressão max 3300 psi, tanque 20\nl.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- Empregar equipamento com dispositivo que permita a homogeneização da tinta no interior do\nreservatório e que tenha capacidade de regulagem da largura das faixas;\n- Preparar tinta e mistura de microesferas no tanque da máquina de demarcação viária de acordo com o\nespecificado;\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Calibração do equipamento;\n- Medir com trena e marcar com linha e giz as faixas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Aplicar a tinta retrorrefletiva com equipamento airless em faixa contínua ou tracejada com máquina de\ndemarcação viária empurrada a mão com jatos para tinta e microesferas;\n- Remover fitas após secagem.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Podem ser empregados equipamentos que promovam aspersões em separado entre a tinta e as\nmicroesferas de vidro, situação em que a pressurização e a vazão de cada reservatório devem ser\ncalibradas separadamente;\n- Quando especificado emprego de grãos abrasivos, no intuito de aumentar resistência à derrapagem, o\nequipamento deverá ser provido de reservatório próprio, com calibragem compatível com a vazão da\ntinta e das microesferas de vidro;\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 28\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 29"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103756": {
+  "102509": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 58,
+    "pagina_inicial": 15,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na montagem de formas, armação e\nconcretagem da barreira de concreto;\n- Pedreiro com encargos complementares: responsável pela concretagem da barreira de concreto;\n- Carpinteiro de formas com encargos complementares: responsável pela montagem e desmontagem das\nformas;\n- Fôrmas de barreira de concreto simples: utilizado para permitir que o concreto se molde no formato\ndesejado;\n- Armação: utilizada para conferir resistência ao concreto, na composição também está incluso o armador,\nque é o profissional responsável pelo corte e dobra das barras e montagem da armação;\n- Concreto: Material que irá compor a barreira de concreto;\n- Desmoldante para fôrmas metálicas à base de oléo vegetal: utilizada para desmoldar as fôrmas;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de barreiras executadas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade considerou-se a atividade de perfuração do piso/solo\npara posicionamento da barra de ancoragem;\n- Para o levantamento dos índices de produtividade considerou-se a montagem e desmontagem das\nformas;\n- Para o levantamento dos índices de produtividade considerou-se o preparo e posicionamento da\narmação;\n- Para o levantamento dos índices de produtividade considerou-se a concretagem;\n- Considerou-se como CHP o tempo que o martelete está perfurando o piso/solo;\n- Considerou-se uma perda de concreto de 10%;\n- Considerou-se uma taxa de armadura de 28,84 kg/m³;\n- Considerou-se duas barras de ancoragem de 30 cm de comprimento a cada 2 m;\n- Considerou-se forma metálica nos cálculos de consumo e produtividade;\n- Não estão considerados custos com transporte de materiais que deverão serem contemplados através de\ncomposições específicas de transporte;\n- A base de concreto magro não está inclusa na composição, para contemplá-la, utilizar composição\nespecífica de lastro.",
-      "7": "7. EXECUÇÃO\n- Marcação dos pontos para furação;\n- Perfuração dos pontos;\n- Corte e dobra das barras de aço;\n- Montagem da armação e barras de ancoragem;\n- Aplicação de desmoldante nas faces internas da forma;\n- Montagem da forma;\n- Concretagem da barreira;\n- Desmontagem da forma.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 59\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 60"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Solvente diluente a base de aguarras, para diluição da tinta acrílica a base de solvente;\n- Tinta a base de resina acrilica, para sinalizacao horizontal viaria;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo II-A (Drop-on), a ser dispersa\nimediatamente após aplicação da tinta;\n- Microesferas de vidro para sinalizacao horizontal viaria, tipo I-B (Premix), a ser misturada na tinta.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos.",
+      "7": "7. EXECUÇÃO\n- Sinalização de segurança na via / interrupção ou desvio do tráfego de veículos em obediência ao Código\nde Trânsito Brasileiro;\n- Limpeza do pavimento com varredura e jatos de ar comprimido;\n- Medir com trena e marcar com linha e giz as faixas;\n- Colocar fita crepe lateralmente às linhas de demarcação;\n- Preparar tinta e mistura de microesferas de acordo com o especificado;\n- Aplicar a tinta retrorrefletiva com trincha ou rolo de lã dentro das faixas demarcadas;\n- Imediatamente após aplicação da tinta, disersar microesferas (drop-on) sobre a tinta fresca;\n- Remover fitas após secagem.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 16"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103734": {
+  "102498": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 8,
+    "pagina_inicial": 7,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação do bate rodas;\n- Pedreiro com encargos complementares: oficial responsável pela instalação do bate rodas;\n- Bate rodas de resina com dois pinos de fixação: dispositivo de sinalização horizontal a ser instalado na\nvia;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 8\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que o bate rodas é fixado com dois pinos.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação do bate rodas no local.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor: responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente: responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Cal hidratada para pintura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento do meio-fio a ser pintado.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n-Para a obtenção dos coeficientes, foi considerado um meio-fio de 15 cm de altura e 10 cm de largura.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 7\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Colocar sinalização provisória na via e fechar faixa ou via;\n- Promover a limpeza do meio-fio e retirada da vegetação das bordas, caso existam;\n- Pintar o meio-fio con trincha ou brecha.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 9"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 8"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103740": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 20,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação da calota;\n- Pedreiro com encargos complementares: oficial responsável pela instalação da calota;\n- Calota (tartaruga) de resina com um oino de fixação: dispositivo de sinalização horizontal a ser instalado\nna via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 20\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que a calota é fixada com um único pino.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação da calota no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 21"
-    }
-  },
-  "103747": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 35,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação e\nancoragem da defensa metálica dupla;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 110 de defensa metalica (guard rail) maleável: utilizado como base para fixação das lâminas\nda defensa metálica;\n- Espaçador para defensa metalica (guard rail) U - 110 maleável duplo: utilizado para dar distância entre\no poste e a lâmina;\n- Garra para defensa metálica (guard rail) maleável: utilizada para fixar o espaçador a lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M10 em ferro zincado sextavado, comprimento = 30 mm, diâmetro = 10 mm,rosca inteira:\nutilizado para ligar a garra ao poste na defensa metálica;\n- Arruela lisa zincada M10: utilizada para fixar a garra na defensa metálica;\n- Porca sextavada de ferro zincada M10: utilizada para fixar a garra na defensa metálica;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metro, de trecho de ancoragem com defensa metálica dupla.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa e\na escavação da vala;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica simples (ancoragem);\n- Considerou-se como CHP o tempo que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a casa 2 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 36\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas, com altura alinhada com a defensa metálica;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no piso;\n- Fixação das lâminas nos postes, com espaçador, garra e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 37"
-    }
-  },
-  "103746": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 32,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação e\nancoragem da defensa metálica simples;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 110 de defensa metalica (guard rail) maleável: utilizado como base para fixação das lâminas\nda defensa metálica;\n- Espaçador para defensa metalica (guard rail) U - 110 maleável simples: utilizado para dar distância\nentre o poste e a lâmina;\n- Garra para defensa metálica (guard rail) maleável: utilizada para fixar o espaçador a lâmina;\n- Cinta para defensa metalica (guard rail) maleável simples: utlizada na fixação do espaçador;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M10 em ferro zincado sextavado, comprimento = 30 mm, diâmetro = 10 mm,rosca inteira:\nutilizado para ligar a garra ao poste na defensa metálica;\n- Arruela lisa zincada M10: utilizada para fixar a garra na defensa metálica;\n- Porca sextavada de ferro zincada M10: utilizada para fixar a garra na defensa metálica;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metro, de trecho de ancoragem com defensa metálica simples.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa e\na escavação da vala;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica maleável simples (ancoragem);\n- Considerou-se como CHP o tempo que o bate estaca está cravando os postes no solo;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 33\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Considerou-se um poste a cada 2 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas, com altura alinhada com a defensa metálica;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no piso;\n- Fixação das lâminas nos postes, com espaçador, garra e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 34"
-    }
-  },
-  "103749": {
+  "102519": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
     "pagina_inicial": 40,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação da\ndefensa metálica dupla;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 1,8 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) U - 150 semi maleável: utilizado para dar distância entre\no poste e a lâmina;\n- Calço para defensa metálica (guard rail) semi maleável: utilizado para dar suporte à lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de trecho de defensa semi metálica maleável dupla.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica simples (ancoragem);\n- Considerou-se como CHP o tempo em que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a cada 4 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas, com altura alinhada com a defensa metálica;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no chão;\n- Fixação das lâminas nos postes, com espaçador, calço e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 41"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica spray, cor preta, fornecida em embalagem de 400 ml, para pintura do texto;\n- Molde de pintura alfa numérico em chapa vazada, altura da escrita 100mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de caracteres (uma letra, um dígito ou um símbolo).\nSINALIZAÇÃO HORIZONTAL VIÁRIA 40\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálcudo do consumo de molde alfanumérico, foram consideradas 770 utilizações de um único\nalgarismo;\n- Essa composição é válida para textos alfa-numéricos com altura de 100 mm.",
+      "7": "7. EXECUÇÃO\n- A superfície deve estar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Proteger a área ao redor de onde será aplicada a tinta com jornal;\n- Posicionar o molde, agitar a embalagem e aplicar a tinta a uma distância máxima de 30 cm;\n- Retirar proteção e moldes.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 41\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 42"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103744": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 26,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação e\nancoragem da defensa metálica simples;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 1,8 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) U - 150 semi maleável: utilizado para dar distância entre\no poste e a lâmina;\n- Calço para defensa metálica (guard rail) semi maleável: utilizado para dar suporte à lâmina;\n- Terminal de ancoragem tipo C para defensa metálica (guard rail) simples: utilizado para ancorar a\nlâmina ao solo;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metro, de trecho de ancoragem com defensa metálica simples.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa e\na escavação da vala;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica simples (ancoragem);\n- Considerou-se como CHP o tempo que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a casa 4 metros;\n- Considerou-se que a ancoragem ocorra em 16 metros, sendo os últimos 4 metros enterrados;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Escavação da vala para aterramento de trecho com nível abaixo do solo;\n- Cravação dos postes nos pontos de encontro das lâminas, com altura alinhada com a defensa metálica;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no chão;\n- Fixação das lâminas nos postes, com espaçador, calço e plaqueta;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Cravação dos postes para caimento da lâmina e enterramento da extremidade.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 28"
-    }
-  },
-  "103748": {
+  "102518": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
     "pagina_inicial": 38,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação da\ndefensa metálica simples;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 1,8 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) U - 150 semi maleável: utilizado para dar distância entre\no poste e a lâmina;\n- Calço para defensa metálica (guard rail) semi maleável: utilizado para dar suporte à lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metro, de trecho de defensa metálica simples.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica simples (ancoragem);\n- Considerou-se como CHP o tempo em que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a cada 4 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no piso;\n- Fixação das lâminas nos postes, com espaçador, calço e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso;\n- Gabarito de pictograma \"\"bicicleta\"\" para piso em chapa de poliestileno, espessura de 1 mm, dimensões\nda figura de 150x60 cm, conforme padrão da Companhia de Engenharia de Tráfego.",
+      "4": "4. EQUIPAMENTOS\n- Pulverizador de tinta elétrico/máquina de pintura airless, vazão 2 l/min.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 38\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de aplicações do símbolo.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálculo do consumo do gabarito em PS, foram consideradas 10 utilizações;\n- Foi considerado que o molde possui uma área de pintura de 0,27 m²;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir, marcar e posicionar o gabarito;\n- Preparar a tinta e aplicá-la com pistola airless.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições;\n- Molde do pictograma disponível no Anexo 6 deste documento.",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 39"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103745": {
+  "102514": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 29,
+    "pagina_inicial": 30,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação e\nancoragem da defensa metálica dupla;\n- Lâmina de defensa metálica (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 1,8 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) U - 150 semi maleável: utilizado para dar distância entre\no poste e a lâmina;\n- Calço para defensa metálica (guard rail) semi maleável: utilizado para dar suporte à lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Terminal de ancoragem tipo C para defensa metálica (guard rail) simples: utilizado para ancorar a\nlâmina ao solo;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento em metro de trecho de ancoragem com defensa metálica dupla.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa e\na escavação da vala;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica dupla (ancoragem);\n- Considerou-se como CHP o tempo que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a casa 4 metros;\n- Considerou-se que a ancoragem ocorra em 16 metros, sendo os últimos 4 metros enterrados;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Escavação da vala para aterramento de trecho com nível abaixo do solo;\n- Cravação dos postes nos pontos de encontro das lâminas, com altura alinhada com a defensa metálica;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no chão;\n- Fixação das lâminas nos postes, com espaçador, calço e plaqueta;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 30\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Cravação dos postes para caimento da lâmina e enterramento da extremidade.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, para pintura dos pictogramas;\n- Gabarito de pictograma \"\"deficiente físico\"\" ou texto para piso em chapa de poliestileno, espessura de 1\nmm, dimensões externas da chapa de 120x120 cm, conforme padrão da Companhia de Engenharia de\nTráfego.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 30\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Pulverizador de tinta elétrico/máquina de pintura airless, vazão 2 l/min.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de aplicações do símbolo.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálculo do consumo do gabarito em PS, foram consideradas 10 utilizações;\n- Foi considerado que o molde possui uma área de pintura de 0,25 m²;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir, marcar e posicionar o gabarito;\n- Preparar a tinta e aplicá-la com pistola airless.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições;\n- Molde do pictograma disponível no Anexo 2 deste Caderno Técnico.",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 31"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103751": {
+  "102516": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 44,
+    "pagina_inicial": 34,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação da\ndefensa metálica dupla;\n- Lâmina defensa metalica tripla onda (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 2 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) para tripla onda: utilizado para dar distância entre o\nposte e a lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de trecho de defensa metálica tripla onda dupla.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica dupla (ancoragem);\n- Considerou-se como CHP o tempo em que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a cada 4 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no piso;\n- Fixação das lâminas nos postes, com espaçador e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 45"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso;\n- Gabarito de pictograma \"\"idoso\"\" para piso em chapa de poliestileno, espessura de 1 mm, dimensões\nexternas da chapa de 120x120 cm, conforme padrão da Companhia de Engenharia de Tráfego.",
+      "4": "4. EQUIPAMENTOS\n- Pulverizador de tinta elétrico/máquina de pintura airless, vazão 2 l/min.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 34\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de aplicações do símbolo.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálculo do consumo do gabarito em PS, foram consideradas 10 utilizações;\n- Foi considerado que o molde possui uma área de pintura de 0,22 m²;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir, marcar e posicionar o gabarito;\n- Preparar a tinta e aplicá-la com pistola airless.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições;\n- Molde do pictograma disponível no Anexo 4 deste documento.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 35"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103750": {
+  "102515": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 42,
+    "pagina_inicial": 32,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação da\ndefensa metálica simples;\n- Lâmina defensa metalica tripla onda (guard rail) perfil W de 4 metros: dispositivo a ser instalado;\n- Poste C - 150 de defensa metálica (guard rail) semi maleável com 2 metros: utilizado como base para\nfixação das lâminas da defensa metálica;\n- Espaçador para defensa metálica (guard rail) para tripla onda: utilizado para dar distância entre o\nposte e a lâmina;\n- Plaqueta para defensa metálica (guard rail): utilizada na fixação da lâmina junto ao poste;\n- Parafuso M16 inox sextavado, comprimento = 50 mm, diâmetro = 16 mm,rosca inteira: utilizado para\nligar as lâminas ao poste na defensa metálica;\n- Parafuso M16 em ferro zincado sextavado, comprimento = 25 mm, diâmetro = 16 mm,rosca inteira:\nutilizado para ligar uma lâmina a outra na defensa metálica;\n- Arruela lisa zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Porca sextavada de ferro zincada M16: utilizada para fixar a lâmina na defensa metálica;\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "4": "4. EQUIPAMENTOS\n- Bate estaca para defensa metálica: utilizado para cravar os postes no solo.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento, em metros, de trecho de defensa metálica tripla onda simples.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o processo de instalação da defensa;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação de defensa metálica simples (ancoragem);\n- Considerou-se como CHP o tempo em que o bate estaca está cravando os postes no solo;\n- Considerou-se um poste a cada 4 metros;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Alinhamento das lâminas com o local de instalação;\n- Cravação dos postes nos pontos de encontro das lâminas;\n- Pré fixação das lâminas entre elas, realizado com as lâminas ainda no piso;\n- Fixação das lâminas nos postes, com espaçador e plaqueta.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 43"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso;\n- Gabarito de pictograma \"\"idoso\"\" para piso em chapa de poliestileno, espessura de 1 mm, dimensões\nexternas da chapa de 120x120 cm, conforme padrão da Companhia de Engenharia de Tráfego.",
+      "4": "4. EQUIPAMENTOS\n- Pulverizador de tinta elétrico/máquina de pintura airless, vazão 2 l/min.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 32\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de aplicações do símbolo.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálculo do consumo do gabarito em PS, foram consideradas 10 utilizações;\n- Foi considerado que o molde possui uma área de pintura de 0,21 m²;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir, marcar e posicionar o gabarito;\n- Preparar a tinta e aplicá-la com pistola airless.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições;\n- Molde do pictograma disponível no Anexo 3 deste documento.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 33"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103735": {
+  "102517": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 10,
+    "pagina_inicial": 36,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação da lombada;\n- Pedreiro com encargos complementares: oficial responsável pela instalação da lombada;\n- lombada de resina com dois pinos de fixação: dispositivo de sinalização horizontal a ser instalado na via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 10\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que a lombada é fixada com dois pinos.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação da lombada no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 11"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso;\n- Gabarito de pictograma \"\"pedestre\"\" para piso em chapa de poliestileno, espessura de 1 mm, dimensões\nda figura de 130x90 cm, conforme padrão da Companhia de Engenharia de Tráfego.",
+      "4": "4. EQUIPAMENTOS\n- Pulverizador de tinta elétrico/máquina de pintura airless, vazão 2 l/min.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 36\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de aplicações do símbolo.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\n- Para o cálculo do consumo do gabarito em PS, foram consideradas 10 utilizações;\n- Foi considerado que o molde possui uma área de pintura de 0,38 m²;\n- O tempo produtivo (CHP) e o tempo improdutivo (CHI) do equipamento foram separados da seguinte\nforma:\n- CHP: considera o tempo de pulverização da tinta;\n- CHI: considera os demais tempos da jornada de trabalho.",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir, marcar e posicionar o gabarito;\n- Preparar a tinta e aplicá-la com pistola airless.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições;\n- Molde do pictograma disponível no Anexo 5 deste documento.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 37"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   },
-  "103738": {
+  "102513": {
     "caderno": "Sinalização Horizontal Viária",
     "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 16,
+    "pagina_inicial": 19,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação do prisma;\n- Pedreiro com encargos complementares: oficial responsável pela instalação do prisma;\n- Prisma de resina com dois pinos de fixação: dispositivo de sinalização horizontal a ser instalado na via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 16\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que o prisma é fixado com dois pinos.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação do prisma no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 17"
-    }
-  },
-  "103736": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 12,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação do segregador;\n- Pedreiro com encargos complementares: oficial responsável pela instalação do segregador;\n- Segregador de resina com dois pinos de fixação: dispositivo de sinalização horizontal a ser instalado na\nvia;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 12\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que o segregador é fixada com dois pinos.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação do segregador no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 13"
-    }
-  },
-  "103739": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 18,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação da tacha;\n- Pedreiro com encargos complementares: oficial responsável pela instalação da tacha;\n- Tacha de resina com um pino de fixação: dispositivo de sinalização horizontal a ser instalado na via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 18\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que a tacha é fixada com um único pino.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação da tacha no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 19"
-    }
-  },
-  "103737": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 14,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Servente com encargos complementares: auxilia o oficial na instalação do tachão;\n- Pedreiro com encargos complementares: oficial responsável pela instalação do tachão;\n- Tachão de resina com dois pinos de fixação: dispositivo de sinalização horizontal a ser instalado na via;\n- Adesivo (cola) de resina com catalisador: catalisador adicionado próximo ao momento de aplicação;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 14\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de dispositivos a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos com a instalação do dispositivo;\n- Para a instalação considerou-se que o tachão é fixado com dois pinos.",
-      "7": "7. EXECUÇÃO\n- Marcação do local em que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento dos dispositivos próximos aos pontos de instalação;\n- Preparo da mistura de cola com catalisador;\n- Aplicação da cola no furo;\n- Fixação do tachão no local.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 15"
-    }
-  },
-  "103742": {
-    "caderno": "Sinalização Horizontal Viária",
-    "arquivo": "SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
-    "pagina_inicial": 24,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Montador de estrutura metálica com encargos complementares: oficial responsável pela instalação do\nterminal de ancoragem;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 24\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Terminal de ancoragem tipo D para defensa metálica (Guard Rail): dispositivo a ser instalado fixando a\ndefensa metálica na barreira de concreto;\n- Parafuso de aço tipo chumbador parabolt, diâmetro 5/8\"\": utilizado para fixar na barreira de concreto o\nterminal de ancoragem;\n- Parafuso m16 em ferro zincado sextavado, comprimento = 25 mm, diâmetros = 16 mm,rosca inteira:\nutilizado para fixar o terminal de ancoragem na defensa metálica;\n- Arruela lisa zincada m16: utilizada para fixar o terminal de ancoragem na defensa metálica;\n- Porca sextavada de ferro zincada m16: utilizada para fixar o terminal de ancoragem na defensa\nmetálica;\n- Martelo demolidor elétrico, 30 kg, com potência de 2.000 w e 1.000 impactos por minuto.",
-      "4": "4. EQUIPAMENTOS\n- Martelete demolidor elétrico, 30kg.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade de terminais a serem instalados.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foi considerado o tipo de dispositivo, que condiciona o\ntipo de fixação;\n- Considerou-se que o terminal de ancoragem possui 0,79 m;\n- Para o levantamento dos índices de produtividade foram considerados os oficiais envolvidos com a\ninstalação do terminal de ancoragem;\n- Não estão considerados custos com transporte de materiais que deverão ser contemplados através de\ncomposições específicas de transporte.",
-      "7": "7. EXECUÇÃO\n- Marcação do local que será instalado o dispositivo;\n- Perfuração do ponto com o martelete;\n- Posicionamento do terminal no local de instalação;\n- Fixação na barreira de concreto com chumbadores;\n- Fixação na defensa metálica com parafusos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 25"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pintor responsável por medir, preparar a superfície, pintar e verificar a qualidade do serviço;\n- Servente responsável por transportar os materiais e auxiliar o pintor em todas as tarefas;\n- Tinta acrilica premium para piso, para pintura dos símbolos e textos;\n- Fita crepe largura 25mm, fornecida em rolo de 50 m, utilizada na delimitação da área de pintura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área real de aplicação da tinta.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários (oficiais e ajudantes)\nenvolvidos diretamente com a execução da pintura;\n- Foram consideradas perdas no cálculo de consumo dos insumos;\nSINALIZAÇÃO HORIZONTAL VIÁRIA 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Essa composição é válida para símbolos e textos com altura mínima de 1,60 m;\n- Exemplos de símbolos e textos considerados: setas de todos os tipos, \"\"cruz de Santo André\"\",\n\"\"Preferência\"\", legendas de todos os tipos que atendem a altura (\"\"PARE\"\", \"\"REDUZA\"\", \"\"ATENÇÃO\"\"\netc.).",
+      "7": "7. EXECUÇÃO\n- A superfície deve se encontrar limpa, livre de poeira, óleos e qualquer tipo de contaminante;\n- Medir e realizar a marcação das escritas e símbolos com a utilização da fita crepe;\n- Preparar a tinta e aplicá-la no espaço delimitado com rolo.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de sinalização horizontal sobre piso cimentado, porém foi\nconsiderada válida para pisos intertravado e asfáltico, por ter seu custo representativo para tais\ncondições.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nSINALIZAÇÃO HORIZONTAL VIÁRIA 20"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SINALIZACAO-HORIZONTAL-VIARIA.pdf",
+    "pdf_modificado": "Fri, 12 Jun 2026 18:33:07 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:47:48+00:00"
   }
 }

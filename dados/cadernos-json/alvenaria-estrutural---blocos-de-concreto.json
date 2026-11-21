@@ -1,170 +1,794 @@
 {
+  "107368": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 79,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 10,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 79\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 80"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105771": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 55,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 10,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 55\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 56"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107369": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 81,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 12,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 81\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 82"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105770": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 53,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 12,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 54"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
   "89480": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 21,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 14,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 21\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 22"
-    }
-  },
-  "89464": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 13,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 14,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 14"
-    }
-  },
-  "89478": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 19,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:2:9, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria de estrutural de até 3,00m de altura, tanto para casas quanto\npara edifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem das plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 20"
-    }
-  },
-  "89462": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 11,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:2:9, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 12"
-    }
-  },
-  "104444": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 29,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 29\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 30\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- TAUIL, C.A. & NESSE, F.J.M. Alvenaria Estrutural. São Paulo, Editora PINI, 2010.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 31"
-    }
-  },
-  "104442": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 25,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 25\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 26"
-    }
-  },
-  "89472": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 17,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 14 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 17\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 18"
-    }
-  },
-  "89455": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 9,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 14 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 10"
-    }
-  },
-  "89470": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 15,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 4,0 ou 4,5 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:2:9, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 16"
-    }
-  },
-  "89453": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 7,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 7\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:2:9, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 8"
-    }
-  },
-  "104443": {
-    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
-    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-    "pagina_inicial": 27,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 28"
-    }
-  },
-  "104441": {
     "caderno": "Alvenaria Estrutural - Blocos de Concreto",
     "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
     "pagina_inicial": 23,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 14,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
       "4": "4. EQUIPAMENTOS\n- Não se aplica.",
       "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncomtemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
-      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 24"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89464": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 15,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 14,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 15\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 16"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107370": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 83,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 16,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 83\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 84"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105769": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 51,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 16,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 51\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 52"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107371": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 85,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 18,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 86"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105768": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 49,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 18,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 49\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 50"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107372": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 87,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 20,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 87\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 88"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105767": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 47,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 20,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 47\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 48"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107366": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 75,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 3,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 75\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 76"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105773": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 59,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 3,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 59\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 60"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89478": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 21,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 21\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem das plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 22"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89462": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 13,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 14"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107367": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 77,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 6,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 77\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 78"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105772": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 57,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 6,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 57\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 58"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "104444": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 31,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 31\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 32"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "104442": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 27,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 28"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107361": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 65,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 65\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 10,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 66"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105764": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 41,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 41\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 10,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 42"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107362": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 67,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 67\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 12,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 68"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105763": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 39,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 39\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 12,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 40"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89472": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 19,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 14 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 19\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 20"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89455": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 11,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 14 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 11\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 12"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107363": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 69,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 69\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 16,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 70"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105762": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 37,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 37\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 16,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,25:3, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 38"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107364": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 71,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 71\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 18,0 MPa;\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 72"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105761": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 35,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 35\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 18,0 MPa;\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 36"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107365": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 73,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 73\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 20,0 MPa;\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 74"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105760": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 33,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 33\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 20,0 MPa;\n- Argamassa de cimento e areia média, no traço 1:3, com adição de plastificante, preparo com betoneira,\nconforme composição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 34"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107359": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 61,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 61\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 3,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 62"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105766": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 45,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 45\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 3,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 46"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89470": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 17,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 4,0 ou 4,5 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 17\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 18"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "89453": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 9,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 4,0 ou 4,5 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- De acordo com a ABNT NBR 6136:2016, a resistência mínima dos blocos de classe B é de 4,0 MPa;\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 10"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107360": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 63,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 63\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 6,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 64"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "105765": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 43,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 43\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 6,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:1:6, preparo com betoneira, conforme composição\nauxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 44"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "104443": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 29,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 29\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\ncolher de pedreiro.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 30"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "104441": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 25,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela transferência de eixo, marcação, elevação e controle da qualidade da\nalvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais no\nandar;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm, 14x19x19 cm e 14x19x34 cm (espessura de\n14 cm), com resistência de 8,0 MPa;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 25\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta e/ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para alvenaria estrutural de até 3,00m de altura, tanto para casas quanto para\nedifícios de múltiplos pavimentos;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas para vergas, contravergas e cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Demarcação da alvenaria: materialização dos eixos de referência, demarcação das faces das paredes a\npartir dos eixos ortogonais, execução da primeira fiada;\n- Elevação da alvenaria: assentamento dos componentes com a utilização de argamassa aplicada com\npalheta, formando-se dois cordões contínuos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- A composição foi calculada para a situação de paredes com área menor que 6 m² sem vãos, porém é\nconsiderada válida para as demais situações (paredes com área menor que 6m² com vãos, paredes com\nárea maior que 6 m² sem vãos e paredes com área maior que 6 m² com vãos) por ter seu custo\nrepresentativo.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 26"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107376": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 95,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, elevação e controle da qualidade do muro em alvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 95\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Vergalhão de 12,5 mm de diâmetro para constituição da barra de cisalhamento da junta de trabalho.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para muro de divisa em alvenaria estrutural de até 2,20 m de altura;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Sobre a fundação já executada e finalizada, fazer a marcação do trecho de muro que será executado e\nassentar a primeira fiada;\n- Assentar os demais componentes de forma que as juntas sejam alternadas a cada fiada para garantir a\namarração;\n- Utilizar argamassa aplicada com colher de pedreiro;\n- Dispor juntas de trabalho a uma distância máxima de 10 m entre elas, ou conforme projeto;\n- Nas juntas, dispor a cada 2 fiadas uma barra de cisalhamento ancorada de um lado e engraxada do\noutro, conforme projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 96\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- TAUIL, C.A. & NESSE, F.J.M. Alvenaria Estrutural. São Paulo, Editora PINI, 2010.\n- THOMAZ, E.; HELENE, P. Qualidade no projeto e na execução de alvenaria estrutural e de alvenarias de\nvedação em edifícios. Boletim Técnico da Escola Politécnica da USP, Departamento de Engenharia de\nConstrução Civil, BT/PCC/252. 31 p. São Paulo: EPUSP, 2000.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 97"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107374": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 91,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, elevação e controle da qualidade do muro em alvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais;\n- Blocos e canaletas estruturais de concreto 14x19x29 cm e 14x19x14 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 91\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Vergalhão de 12,5 mm de diâmetro para constituição da barra de cisalhamento da junta de trabalho.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para muro de divisa em alvenaria estrutural de até 2,20 m de altura;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Sobre a fundação já executada e finalizada, fazer a marcação do trecho de muro que será executado e\nassentar a primeira fiada;\n- Assentar os demais componentes de forma que as juntas sejam alternadas a cada fiada para garantir a\namarração;\n- Utilizar argamassa aplicada com palheta, formando-se dois cordões contínuos;\n- Dispor juntas de trabalho a uma distância máxima de 10 m entre elas, ou conforme projeto;\n- Nas juntas, dispor a cada 2 fiadas uma barra de cisalhamento ancorada de um lado e engraxada do\noutro, conforme projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 92"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107375": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 93,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, elevação e controle da qualidade do muro em alvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm e 14x19x19 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 93\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Vergalhão de 12,5 mm de diâmetro para constituição da barra de cisalhamento da junta de trabalho.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\ncolher de pedreiro;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para muro de divisa em alvenaria estrutural de até 2,20 m de altura;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Sobre a fundação já executada e finalizada, fazer a marcação do trecho de muro que será executado e\nassentar a primeira fiada;\n- Assentar os demais componentes de forma que as juntas sejam alternadas a cada fiada para garantir a\namarração;\n- Utilizar argamassa aplicada com colher de pedreiro;\n- Dispor juntas de trabalho a uma distância máxima de 10 m entre elas, ou conforme projeto;\n- Nas juntas, dispor a cada 2 fiadas uma barra de cisalhamento ancorada de um lado e engraxada do\noutro, conforme projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 94"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
+  },
+  "107373": {
+    "caderno": "Alvenaria Estrutural - Blocos de Concreto",
+    "arquivo": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pagina_inicial": 89,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, elevação e controle da qualidade do muro em alvenaria estrutural;\n- Servente: responsável pelo abastecimento do posto de trabalho do pedreiro e transporte de materiais;\n- Blocos e canaletas estruturais de concreto 14x19x39 cm e 14x19x19 cm (espessura de 14 cm), com\nresistência de 8,0 MPa;\n- Argamassa de cimento, cal e areia média, no traço 1:0,5:4,5, preparo com betoneira, conforme\ncomposição auxiliar de argamassa, e espessura média real da junta de 10 mm;\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 89\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Vergalhão de 12,5 mm de diâmetro para constituição da barra de cisalhamento da junta de trabalho.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a área líquida das paredes de alvenaria estrutural, incluindo a primeira fiada.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente na execução da elevação da alvenaria incluindo-se a fiada de marcação;\n- Considerou-se, para o cálculo do consumo de argamassa e produtividade da mão de obra o\npreenchimento de juntas horizontais e verticais;\n- Considerou-se para o cálculo do consumo de argamassa e produtividade da mão-de-obra o uso de\npalheta ou bisnaga;\n- O consumo dos blocos considera as perdas por entulho durante a execução da alvenaria e no transporte\ndo material;\n- A composição é válida para muro de divisa em alvenaria estrutural de até 2,20 m de altura;\n- O esforço para colocação de escadas ou montagem de plataformas de trabalho e guarda-corpos está\ncontemplado na composição;\n- O assentamento de canaletas cintas está incluído;\n- Os serviços de grauteamento, armação e instalações embutidas não estão considerados nesta\ncomposição. Devem, portanto, considerar composições específicas para estes serviços.",
+      "7": "7. EXECUÇÃO\n- Sobre a fundação já executada e finalizada, fazer a marcação do trecho de muro que será executado e\nassentar a primeira fiada;\n- Assentar os demais componentes de forma que as juntas sejam alternadas a cada fiada para garantir a\namarração;\n- Utilizar argamassa aplicada com palheta, formando-se dois cordões contínuos;\n- Dispor juntas de trabalho a uma distância máxima de 10 m entre elas, ou conforme projeto;\n- Nas juntas, dispor a cada 2 fiadas uma barra de cisalhamento ancorada de um lado e engraxada do\noutro, conforme projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nALVENARIA ESTRUTURAL - BLOCOS DE CONCRETO 90"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
+    "pdf_modificado": "Tue, 11 Aug 2026 16:02:49 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T00:59:07+00:00"
   }
 }

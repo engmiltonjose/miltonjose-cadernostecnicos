@@ -1,156 +1,938 @@
 {
-  "95577": {
+  "107254": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
-    "pagina_inicial": 8,
+    "pagina_inicial": 9,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 10,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 8\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste.\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0153\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0017;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,543 UN) substituído por: INSUMO 39017\n(0,543 UN);\nARMAÇÃO DE ESTACAS 9"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Aço CA-50, 6,3 MM, vergalhão.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, que deverão ser\nenroladas para fabricação de estribos helicoidais.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente na produção de estribos helicoidais.",
+      "7": "7. EXECUÇÃO\n- Dispor um tubo de aço no início da barra para auxiliar no manejo da barra durante operação do\nequipamento;\n- Posicionar a barra no cilindro do equipamento, assegurando que não escape;\nARMAÇÃO DE ESTACAS 9/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Girar a manivela enquanto o outro operário mantem a barra fixa para garantir que seja enrolada de\nforma adequada;\n- Finalizar a ponta da espiral com auxílio do tubo de aço.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 10/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95578": {
+  "107253": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
-    "pagina_inicial": 10,
+    "pagina_inicial": 11,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 12,5 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 10\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste.\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0084\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0010;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,367 UN) substituído por: INSUMO 39017\n(0,367 UN);\nARMAÇÃO DE ESTACAS 11"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Aço CA-60, 4,2 MM, OU 5,0 MM, OU 6,0 MM, OU 7,0 MM, vergalhão.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, que deverão ser\nenroladas para fabricação de estribos helicoidais.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente na produção de estribos helicoidais.",
+      "7": "7. EXECUÇÃO\n- Dispor um tubo de aço no início da barra para auxiliar no manejo da barra durante operação do\nequipamento;\n- Posicionar a barra no cilindro do equipamento, assegurando que não escape;\n- Girar a manivela enquanto o outro operário mantem a barra fixa para garantir que seja enrolada de\nforma adequada;\nARMAÇÃO DE ESTACAS 11/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Finalizar a ponta da espiral com auxílio do tubo de aço.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 12/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95579": {
+  "107585": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
-    "pagina_inicial": 12,
+    "pagina_inicial": 13,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 16,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 12\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0053\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0006;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44950: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *16 A 32,0* MM, COBRIMENTO 40 MM (0,212 UN) substituído por: INSUMO 39017\n(0,212 UN);\nARMAÇÃO DE ESTACAS 13"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 13/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95580": {
+  "107586": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 14,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 20,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 14\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0043\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0004;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44950: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *16 A 32,0* MM, COBRIMENTO 40 MM (0,113 UN) substituído por: INSUMO 39017\n(0,113 UN);\nARMAÇÃO DE ESTACAS 15"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 14/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95581": {
+  "107587": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 15,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 15/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107588": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 16,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 25,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 16\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste.\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0039\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0002;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44950: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *16 A 32,0* MM, COBRIMENTO 40 MM (0,052 UN) substituído por: INSUMO 39017\n(0,052 UN);\nARMAÇÃO DE ESTACAS 17"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 16/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95582": {
+  "107589": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 17,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 17/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107590": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 18,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 32,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 18\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0037\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0001;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal;\n- Foi aferido o item Inx 39017 - Espaçador/Destanciador (coef. 0,017). No entanto, este item não aparece\nnos relatórios, pois quando multiplicado o seu preço pelo coeficiente, o custo gerado é inferior a R$ 0,01.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44950: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *16 A 32,0* MM, COBRIMENTO 40 MM (0,017 UN) substituído por: INSUMO 39017\n(0,017 UN);\nARMAÇÃO DE ESTACAS 19"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 18/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95576": {
+  "107591": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
-    "pagina_inicial": 6,
+    "pagina_inicial": 19,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 8,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 6\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste.\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0323\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0026\n-Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,743 UN) substituído por: INSUMO 39017\n(0,743 UN);\nARMAÇÃO DE ESTACAS 7"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 19/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95583": {
+  "107592": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 20,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro.\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 20\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção circular.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0826\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0070;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por: INSUMO 39017\n(1,19 UN);\nARMAÇÃO DE ESTACAS 21"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 20/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95584": {
+  "107593": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 21,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 21/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107594": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 22,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro;\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
       "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção circular.\nARMAÇÃO DE ESTACAS 22\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0520\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0043;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por: INSUMO 39017\n(0,97 UN);\nARMAÇÃO DE ESTACAS 23"
-    }
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 22/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95593": {
+  "107595": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
-    "pagina_inicial": 26,
+    "pagina_inicial": 23,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 26\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção retangular.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
-      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0520\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0043;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por: INSUMO 39017\n(0,97 UN);\nARMAÇÃO DE ESTACAS 27\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE ENGENHARIA DE FUNDAÇÕES E GEOTECNIA - ABEF.\nManual de Especificações de Produtos e Procedimentos ABEF. São Paulo, 1999.\n- FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO - FDE. Catálogo Técnico de Serviços. São\nPaulo, 2016.\n- HACHICH, W., FALCONI, F., CORRÊA, C.N., ORLANDO, C., SCHIMDT, C., ANTUNES, W.R.,\nALBUQUERQUE, P.J. & NIYAMA, S. (Organizadores). Fundações: Teoria e Prática. São Paulo, Pini -\nABMS/ABEF, 1998.\nARMAÇÃO DE ESTACAS 28"
-    }
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela inserção da armadura;\n- Ajudante de armador: auxilia o armador na inserção da armadura.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade, foram considerados os operários (oficiais e\najudantes) envolvidos diretamente com a inserção da armação das estacas já montadas, respeitando as\nprescrições de normas relativas à segurança e à saúde no trabalho.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 23/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   },
-  "95592": {
+  "107607": {
     "caderno": "Armação de Estacas",
     "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
     "pagina_inicial": 24,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador com encargos complementares;\n- Ajudante de armador com encargos complementares;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado (Insumo substituído, ver item 8 –\nPendências);\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
-      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 24\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção retangular.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-\ncortadas/dobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 24/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107608": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 25,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 25/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107609": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 26,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 26/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107610": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 27,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 27/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107611": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 28,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 28/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107612": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 29,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 29/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107596": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 30,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 30/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107597": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 31,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 31/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107598": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 32,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 32/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107599": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 33,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 33/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107600": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 34,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 34/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107601": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 35,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 35/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107602": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 36,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 36/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107603": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 37,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 37/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107604": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 38,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 38/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107605": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 39,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 39/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107606": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 40,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Ajudante de armador: auxilia na inserção da armadura;\n- Escavadeira hidráulica sobre esteiras: utilizada no transporte e inserção da armação de estaca.",
+      "4": "4. EQUIPAMENTOS\n- Escavadeira hidráulica sobre esteiras, caçamba 0,80 m3, peso operacional 17 t, potência bruta 111\nHP.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a altura armada da estaca definida no projeto.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a inserção da armação das estacas já montadas.\n- Escavadeira:\n-> CHP: considera os tempos de içamento, posicionamento e colocação da armadura.\n-> CHI: considera os tempos improdutivos, como atrasos para iniciar o trabalho (inicialização), saídas\nprévias (finalização) com relação aos horários estipulados para a jornada de trabalho, e extensões do\nhorário de almoço para além de uma hora máxima.",
+      "7": "7. EXECUÇÃO\n- Com a armação já montada, executar sua inserção no local definido no projeto.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 40/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107579": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 41,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 10,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.\nARMAÇÃO DE ESTACAS 41/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,543 UN) substituído por INSUMO\n39017 (0,543 UN)\nARMAÇÃO DE ESTACAS 42/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95577": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 43,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 10,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\nARMAÇÃO DE ESTACAS 43/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
       "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para o caso de montagem de armadura de estacas com fluído estabilizante, é necessário a realização de\nalguns pontos de solda para garantir resistência durante o içamento e movimentação com o guindaste;\n- O esforço de soldagem e o consumo de eletrodo para esse caso, aplicado ao diâmetro do aço utilizado\nna composição são os seguintes:\n- SOLDADOR (H): 0,0826\n- ELETRODO AWS E-7018 (OK 48.04;\nWI 718) D=4MM (KG): 0,0070;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas, sendo\numa referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura transversal.",
-      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a item\nSem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por: INSUMO 39017\n(1,19 UN);\nARMAÇÃO DE ESTACAS 25"
-    }
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,543 UN) substituído por INSUMO\n39017 (0,543 UN)\nARMAÇÃO DE ESTACAS 44/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107580": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 45,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 12,5 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.\nARMAÇÃO DE ESTACAS 45/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,367 UN) substituído por INSUMO\n39017 (0,367 UN)\nARMAÇÃO DE ESTACAS 46/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95578": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 47,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 12,5 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\nARMAÇÃO DE ESTACAS 47/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,367 UN) substituído por INSUMO\n39017 (0,367 UN)\nARMAÇÃO DE ESTACAS 48/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107581": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 49,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 16,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nARMAÇÃO DE ESTACAS 49/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,212 UN) substituído por INSUMO\n39017 (0,212 UN)\nARMAÇÃO DE ESTACAS 50/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95579": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 51,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 16,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\nARMAÇÃO DE ESTACAS 51/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,212 UN) substituído por INSUMO\n39017 (0,212 UN)\nARMAÇÃO DE ESTACAS 52/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107582": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 53,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 20,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nARMAÇÃO DE ESTACAS 53/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,113 UN) substituído por INSUMO\n39017 (0,113 UN)\nARMAÇÃO DE ESTACAS 54/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95580": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 55,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 20,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\nARMAÇÃO DE ESTACAS 55/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,113 UN) substituído por INSUMO\n39017 (0,113 UN)\nARMAÇÃO DE ESTACAS 56/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107583": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 57,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 25,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nARMAÇÃO DE ESTACAS 57/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,052 UN) substituído por INSUMO\n39017 (0,052 UN)\nARMAÇÃO DE ESTACAS 58/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95581": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 59,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 25,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\nARMAÇÃO DE ESTACAS 59/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,052 UN) substituído por INSUMO\n39017 (0,052 UN)\nARMAÇÃO DE ESTACAS 60/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107584": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 61,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 32,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nARMAÇÃO DE ESTACAS 61/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,017 UN) substituído por INSUMO\n39017 (0,017 UN)\nARMAÇÃO DE ESTACAS 62/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95582": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 63,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 32,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\nARMAÇÃO DE ESTACAS 63/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,017 UN) substituído por INSUMO\n39017 (0,017 UN)\nARMAÇÃO DE ESTACAS 64/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107578": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 65,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 8,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.\nARMAÇÃO DE ESTACAS 65/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,743 UN) substituído por INSUMO\n39017 (0,743 UN)\nARMAÇÃO DE ESTACAS 66/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95576": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 67,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 8,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\nARMAÇÃO DE ESTACAS 67/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças;\n- Embora as barras longitudinais possam ter diâmetros acima de 12,5mm, os espaçadores foram\ndefinidos para diâmetros de armadura até 12,5mm, na medida em que, em geral, são presos nos\nestribos e não nas barras longitudinais.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,743 UN) substituído por INSUMO\n39017 (0,743 UN)\nARMAÇÃO DE ESTACAS 68/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107574": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 69,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro.\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nARMAÇÃO DE ESTACAS 69/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por INSUMO 39017\n(1,19 UN)\nARMAÇÃO DE ESTACAS 70/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95583": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 71,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro.\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção circular.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nARMAÇÃO DE ESTACAS 71/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por INSUMO 39017\n(1,19 UN)\nARMAÇÃO DE ESTACAS 72/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107575": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 73,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro;\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nARMAÇÃO DE ESTACAS 73/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por INSUMO 39017\n(0,97 UN)\nARMAÇÃO DE ESTACAS 74/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95584": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 75,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro;\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção circular.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\nARMAÇÃO DE ESTACAS 75/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por INSUMO 39017\n(0,97 UN)\nARMAÇÃO DE ESTACAS 76/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107577": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 77,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm;\n- Eletrodo revestido AWS - E7018, diâmetro igual a 4,00 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.\nARMAÇÃO DE ESTACAS 77/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por INSUMO 39017\n(0,97 UN)\nARMAÇÃO DE ESTACAS 78/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95593": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 79,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-50 com 6,3 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção retangular.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nARMAÇÃO DE ESTACAS 79/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (0,97 UN) substituído por INSUMO 39017\n(0,97 UN)\nARMAÇÃO DE ESTACAS 80/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "107576": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 81,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Soldador: responsável pela execução dos pontos de solda na armadura;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nARMAÇÃO DE ESTACAS 81/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido e executando os pontos de solda, conforme o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para alguns tipos de estacas, é necessária a realização de alguns pontos de solda para garantir\nresistência durante o içamento e movimentação com o guindaste;\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por INSUMO 39017\n(1,19 UN)\nARMAÇÃO DE ESTACAS 82/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
+  },
+  "95592": {
+    "caderno": "Armação de Estacas",
+    "arquivo": "SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pagina_inicial": 83,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Armador: responsável pela montagem da armadura;\n- Ajudante de armador: auxilia o armador na montagem da armadura;\n- Peças de aço CA-60 com 5,0 mm de diâmetro, previamente cortadas e dobradas no canteiro\n(Composição Auxiliar);\n- Espaçador de plástico industrializado circular para concreto armado;\n- Arame recozido nº 18 BWG, diâmetro 1,25 mm.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar a quantidade/ peso de barras com diâmetro especificado na composição, adotadas na\nmontagem da armadura de estacas com seção retangular.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nARMAÇÃO DE ESTACAS 83/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os operários envolvidos\ndiretamente com a armação das estacas após o recebimento/fabricação das peças pré-cortadas/\ndobradas no canteiro;\n- Foi considerado que as barras são recebidas pré-cortadas e pré-dobradas, sendo as perdas já\ncontempladas no processo de corte e dobra das peças.",
+      "7": "7. EXECUÇÃO\n- Com as barras já cortadas e dobradas, executar a montagem da armadura, fixando as diversas partes\ncom arame recozido, respeitando o projeto estrutural.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Para a montagem do conjunto de armação (gaiola) é necessário considerar composições distintas,\nsendo uma referente ao diâmetro da armadura longitudinal e outra ao diâmetro da armadura\ntransversal.",
+      "9": "9. PENDÊNCIAS\nA Pendência por Substituição (PS) ocorre quando é adotada item Com Custo/Preço em substituição a\nitem Sem Custo/Preço com características semelhantes.\nPendências por Substituição nesta composição:\nINSUMO 44949: ESPACADOR / DISTANCIADOR CIRCULAR COM ENTRADA LATERAL, EM PLASTICO,\nPARA VERGALHAO *4,2 A 12,5* MM, COBRIMENTO 40 MM (1,19 UN) substituído por INSUMO 39017\n(1,19 UN)\nARMAÇÃO DE ESTACAS 84/85\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE ENGENHARIA DE FUNDAÇÕES E GEOTECNIA - ABEF.\nManual de Especificações de Produtos e Procedimentos ABEF. São Paulo, 1999.\n- FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO - FDE. Catálogo Técnico de Serviços. São\nPaulo, 2016.\n- HACHICH, W., FALCONI, F., CORRÊA, C.N., ORLANDO, C., SCHIMDT, C., ANTUNES, W.R.,\nALBUQUERQUE, P.J. & NIYAMA, S. (Organizadores). Fundações: Teoria e Prática. São Paulo, Pini - ABMS/\nABEF, 1998.\nARMAÇÃO DE ESTACAS 85/85"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ARMACAO-DE-ESTACAS.pdf",
+    "pdf_modificado": "Fri, 11 Sep 2026 19:55:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:00:15+00:00"
   }
 }

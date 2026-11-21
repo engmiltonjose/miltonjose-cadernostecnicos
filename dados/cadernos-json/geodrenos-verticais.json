@@ -11,7 +11,11 @@
       "7": "7. EXECUÇÃO\n- Locam-se os pontos onde serão executados os geodrenos verticais;\n- Posiciona-se a torre de cravação sobre o ponto de execução;\n- Instala-se a ponteira metálica no dreno fibroquímico;\n- Crava-se o dreno fibroquímico até a cota definida em projeto;\n- Corta-se o dreno fibroquímico;\n- Repetir o processo para os demais geodrenos verticais.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição refere-se à situação de cravação de geodreno vertical sobre pré-furo já executado,\nporém é válida também para cravação de geodreno vertical sem pré-furo em termos de custos;\n- Esta composição refere-se à situação de execução de geodreno vertical com profundidade maior que 20\nm e menor ou igual a 30 m, porém é válida para execução de geodreno vertical com profundidade maior\nque 10 m e menor ou igual a 20 m em termos de custos;\n- Empregar composição específica para o comprimento de pré-furo executado.\nGEODRENOS VERTICAIS 12\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nGEODRENOS VERTICAIS 13\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- ENGEGROUND. Aterro de Sobrecarga e Drenos Verticais. Disponível em:\nhttps://engeground.com.br/catalogos/aterro_drenos_verticais.pdf. Acessado em 28 de novembro de\n2025.\n- SOLOTRAT. Dreno Fibroquímico. Disponível em: https://www.solotrat.com.br/pdf/dreno-fibroquimico-\nsolotrat.pdf. Acessado em 28 de novembro de 2025.\nGEODRENOS VERTICAIS 14"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-GEODRENOS-VERTICAIS.pdf",
+    "pdf_modificado": "Tue, 10 Feb 2026 20:23:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:23:14+00:00"
   },
   "106548": {
     "caderno": "Geodrenos Verticais",
@@ -25,7 +29,11 @@
       "7": "7. EXECUÇÃO\n- Locam-se os pontos onde serão executados os geodrenos verticais;\n- Posiciona-se a torre de cravação sobre o ponto de execução;\n- Instala-se a ponteira metálica no dreno fibroquímico;\n- Crava-se o dreno fibroquímico até a cota definida em projeto;\n- Corta-se o dreno fibroquímico;\n- Repetir o processo para os demais geodrenos verticais.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição refere-se à situação de cravação de geodreno vertical sobre pré-furo já executado,\nporém é válida também para cravação de geodreno vertical sem pré-furo em termos de custos;\n- Empregar composição específica para o comprimento de pré-furo executado.",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nGEODRENOS VERTICAIS 9\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nGEODRENOS VERTICAIS 10"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-GEODRENOS-VERTICAIS.pdf",
+    "pdf_modificado": "Tue, 10 Feb 2026 20:23:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:23:14+00:00"
   },
   "106550": {
     "caderno": "Geodrenos Verticais",
@@ -39,6 +47,10 @@
       "7": "7. EXECUÇÃO\n- Posiciona-se a perfuratriz sobre o ponto de execução;\n- Perfura-se até a cota definida em projeto;\n- Repetir o processo para os demais pré-furos.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
       "9": "9. PENDÊNCIAS\n- Não se aplica.\nGEODRENOS VERTICAIS 7"
-    }
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-GEODRENOS-VERTICAIS.pdf",
+    "pdf_modificado": "Tue, 10 Feb 2026 20:23:32 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:23:14+00:00"
   }
 }

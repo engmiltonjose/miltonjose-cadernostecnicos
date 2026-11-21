@@ -1,128 +1,416 @@
 {
-  "101979": {
+  "107759": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 22,
+    "pagina_inicial": 7,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, instalação e controle do chapim;\n- Servente: responsável por transportar os materiais e auxiliar o oficial em todas as tarefas;\n- Chapim ou rufo capa de aço galvaniza num 26, corte 33 cm;\n- Parafuso e bucha de nylon S-6;\n- Selante elástico monocomponente a base de poliuretano para juntas diversas, embalagem e 310 ml.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Serralheiro: responsável pela marcação, corte, instalação e controle do chapim;\n- Servente: responsável por transportar os materiais e auxiliar o oficial em todas as tarefas;\n- Chapim ou rufo capa de aço galvanizado num 26 com pingadeira, corte 25 cm (largura de 14 cm e\naba de 4 cm), acabamento zincado natural;\n- Parafuso e bucha de nylon S-6, para fixação da chapa ao substrato;\n- Selante elástico monocomponente a base de poliuretano para juntas diversas, embalagem e 310 ml,\npara vedação das emendas, cantos e parafusos;\n- Rebite de repuxo em aço inox, diâmetro 3,2 x 12 mm de comprimento (1kg = 666 unidades), para\nfazer a costura entre chapas nas emendas.",
       "4": "4. EQUIPAMENTOS\n- Não se aplica.",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total de muro a ser recoberto.\nPEITORIS E CHAPINS 22\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas por corte das chapas;\n- Considerou-se a execução após a execução da pintura.",
-      "7": "7. EXECUÇÃO\n- Com uso de trena, conferir se as medidas do muro do chapim são compatíveis;\n- Apoiar o primeiro no local da instalação;\n- No chapim que será sobreposto, cortar, com uso de alicate, 5cm das abas, destacando a parte interna;\n- Promover a união das peças em aço galvanizado mediante fixação com rebites de repuxo e soldagem\ncom filete contínuo, após conveniente limpeza/aplicação de fluxo nas chapas a serem unidas;\n- Fixar as peças no substrato (alvenaria ou concreto) por meio de parafusos e buchas regularmente\nespaçados;\n- Aplicar selante a base de poliuretano nas emendas, cantos e sobre a cabeça dos parafusos.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 7/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas por corte das chapas de 15,33%;\n- Considerou-se a execução após a execução da pintura.",
+      "7": "7. EXECUÇÃO\n- Com uso de trena, conferir se as medidas do muro que irá receber o chapim são compatíveis;\n- Apoiar a peça no local da instalação;\n- No chapim que será sobreposto, cortar, com uso de alicate, 5cm das abas, destacando a parte interna;\n- Aplicar selante a base de poliuretano no trecho do chapim que será sobreposto e promover a união\ndas peças mediante fixação com rebites de repuxo;\n- Fixar as peças no substrato (alvenaria ou concreto) por meio de parafusos e buchas regularmente\nespaçados;\n- Aplicar selante a base de poliuretano nas emendas, cantos e sobre a cabeça dos parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 8/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107744": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 9,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Serralheiro: responsável pela marcação, corte, instalação e controle do chapim;\n- Servente: responsável por transportar os materiais e auxiliar o oficial em todas as tarefas;\n- Chapim ou rufo capa de aço galvanizado num 26 com pingadeira, corte 33 cm (largura de 22 cm e\naba de 4 cm), acabamento zincado natura;\n- Parafuso e bucha de nylon S-6, para fixação da chapa ao substrato;\n- Selante elástico monocomponente a base de poliuretano para juntas diversas, embalagem e 310 ml,\npara vedação das emendas, cantos e parafusos;\n- Rebite de repuxo em aço inox, diâmetro 3,2 x 12 mm de comprimento (1kg = 666 unidades), para\nfazer a costura entre chapas nas emendas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\nPEITORIS E CHAPINS 9/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas por corte das chapas de 15,33%;\n- Considerou-se a execução após a execução da pintura.",
+      "7": "7. EXECUÇÃO\n- Com uso de trena, conferir se as medidas do muro que irá receber o chapim são compatíveis;\n- Apoiar a peça no local da instalação;\n- No chapim que será sobreposto, cortar, com uso de alicate, 5cm das abas, destacando a parte interna;\n- Aplicar selante a base de poliuretano no trecho do chapim que será sobreposto e promover a união\ndas peças mediante fixação com rebites de repuxo;\n- Fixar as peças no substrato (alvenaria ou concreto) por meio de parafusos e buchas regularmente\nespaçados;\n- Aplicar selante a base de poliuretano nas emendas, cantos e sobre a cabeça dos parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 10/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107760": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 11,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Serralheiro: responsável pela marcação, corte, instalação e controle do chapim;\n- Servente: responsável por transportar os materiais e auxiliar o oficial em todas as tarefas;\n- Chapim ou rufo capa em aço galvanizado num 26 com pingadeira, corte 35 cm (largura de 24 cm e\naba de 4 cm), acabamento zincado natural;\n- Parafuso e bucha de nylon S-6, para fixação da chapa ao substrato;\n- Selante elástico monocomponente a base de poliuretano para juntas diversas, embalagem e 310 ml,\npara vedação das emendas, cantos e parafusos;\n- Rebite de repuxo em aço inox, diâmetro 3,2 x 12 mm de comprimento (1kg = 666 unidades), para\nfazer a costura entre chapas nas emendas.",
+      "4": "4. EQUIPAMENTOS\n- Não se aplica.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\nPEITORIS E CHAPINS 11/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas por corte das chapas de 15,33%;\n- Considerou-se a execução após a execução da pintura.",
+      "7": "7. EXECUÇÃO\n- Com uso de trena, conferir se as medidas do muro que irá receber o chapim são compatíveis;\n- Apoiar a peça no local da instalação;\n- No chapim que será sobreposto, cortar, com uso de alicate, 5cm das abas, destacando a parte interna;\n- Aplicar selante a base de poliuretano no trecho do chapim que será sobreposto e promover a união\ndas peças mediante fixação com rebites de repuxo;\n- Fixar as peças no substrato (alvenaria ou concreto) por meio de parafusos e buchas regularmente\nespaçados;\n- Aplicar selante a base de poliuretano nas emendas, cantos e sobre a cabeça dos parafusos.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 12/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107753": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 13,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"Capelinha\", com pingadeira, largura de *19* cm e espessura\nde 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6 M, ASSENTADO COM ARGAMASSA 1:6 COM ADITIVO. AF_10/2026\nMacroclasse.classe.grupo Vigência Atualização Situação\n01.REVE.PEIT.023/01 10/2026 06/11/2026 SEM CUSTO\n1. ÁRVORE DE FATORES\n2. ITENS DA COMPOSIÇÃO\nTipo Código Descrição Und. Coef.\nI 43875 CHAPIM OU CAPA DE MURO PRE-MOLDADO EM CONCRETO M 1,0274\nTIPO \"CAPELINHA\", COM PINGADEIRA, L= *19* CM, E= *4* CM\nC 87283 ARGAMASSA TRAÇO 1:6 (EM VOLUME DE CIMENTO E AREIA M3 0,004\nMÉDIA ÚMIDA) COM ADIÇÃO DE PLASTIFICANTE PARA\nEMBOÇO/ MASSA ÚNICA/ ASSENTAMENTO DE ALVENARIA DE\nVEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L.\nAF_07/2026\nC 88309 PEDREIRO COM ENCARGOS COMPLEMENTARES H 0,472422\nC 88316 SERVENTE COM ENCARGOS COMPLEMENTARES H 0,2024666\nC 91692 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHP 0,0263204\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHP DIURNO.\nAF_08/2015\nC 91693 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHI 0,4461016\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHI DIURNO.\nAF_08/2015\n* O item INSUMO 43875 não possuía custo/preço no SINAPI no momento da publicação deste caderno.\n3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"Capelinha\", com pingadeira, largura de *19* cm e espessura\nde 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.\n4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".\n5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.\n6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 13/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 23\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- CALHA FORTE. Manual técnico - Instalação Rufo Capa. Disponível em:\nhttps://www.calhaforte.com.br/faca-voce-mesmo/\n- FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO - FDE. Catálogo de Componentes. São Paulo:\nFDE, janeiro de 2020.\n- LUDOVICO, T. Desempenho a estanqueidade à água: interface janela e parede. Dissertação de\nMestrado. Universidade Federal de Santa Maria, RS, 2016.\nPEITORIS E CHAPINS 24"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 14/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107754": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 15,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"Capelinha\", com pingadeira, largura de *19* cm e espessura\nde 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 15/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 16/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
   "101970": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 14,
+    "pagina_inicial": 17,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"capelinha\", com pingadeira, largura de 19 cm e espessura de 4\ncm;\nPEITORIS E CHAPINS 14\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida, para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 25 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
       "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do chapim.",
+      "6": "6 M, ASSENTADO COM ARGAMASSA 1:6 COM ADITIVO. AF_10/2026\nMacroclasse.classe.grupo Vigência Atualização Situação\n01.REVE.PEIT.009/01 11/2020 06/11/2026 SEM CUSTO\n1. ÁRVORE DE FATORES\n2. ITENS DA COMPOSIÇÃO\nTipo Código Descrição Und. Coef.\nI 45793 CHAPIM OU CAPA DE MURO PRE-MOLDADO EM CONCRETO M 1,0274\nTIPO CHAPEU RETO, COM PINGADEIRA, L = 25 CM, E = 3 CM\nC 87283 ARGAMASSA TRAÇO 1:6 (EM VOLUME DE CIMENTO E AREIA M3 0,005\nMÉDIA ÚMIDA) COM ADIÇÃO DE PLASTIFICANTE PARA\nEMBOÇO/ MASSA ÚNICA/ ASSENTAMENTO DE ALVENARIA DE\nVEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L.\nAF_07/2026\nC 88309 PEDREIRO COM ENCARGOS COMPLEMENTARES H 0,5186869\nC 88316 SERVENTE COM ENCARGOS COMPLEMENTARES H 0,2222944\nC 91692 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHP 0,0288979\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHP DIURNO.\nAF_08/2015\nC 91693 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHI 0,489789\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHI DIURNO.\nAF_08/2015\n* O item INSUMO 45793 não possuía custo/preço no SINAPI no momento da publicação deste caderno.\n3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 25 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.\n4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".\n5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.\n6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 17/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 15"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 18/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
   "101972": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 16,
+    "pagina_inicial": 19,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"capelinha\", com pingadeira, largura de 19 cm e espessura de 4\ncm;\nPEITORIS E CHAPINS 16\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 25 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
       "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 19/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 17"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 20/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
-  "101966": {
+  "107755": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 8,
+    "pagina_inicial": 21,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Soleira/Peitoril em mármore, polido, branco comum, largura de 15cm, espessura de 3cm, corte reto;\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.\nPEITORIS E CHAPINS 8\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 40 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços de 2 cm nas laterais.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- Considerou-se a execução anterior ao revestimento da fachada;\n- Cada peça de granito possui comprimento máximo de 3 m.",
-      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do chapim.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6 M, ASSENTADO COM ARGAMASSA 1:6 COM ADITIVO. AF_10/2026\nMacroclasse.classe.grupo Vigência Atualização Situação\n01.REVE.PEIT.025/01 10/2026 06/11/2026 SEM CUSTO\n1. ÁRVORE DE FATORES\n2. ITENS DA COMPOSIÇÃO\nTipo Código Descrição Und. Coef.\nI 45794 CHAPIM OU CAPA DE MURO PRE-MOLDADO EM CONCRETO M 1,0274\nTIPO CHAPEU RETO, COM PINGADEIRA, L = 40 CM, E = *3* CM\nC 87283 ARGAMASSA TRAÇO 1:6 (EM VOLUME DE CIMENTO E AREIA M3 0,008\nMÉDIA ÚMIDA) COM ADIÇÃO DE PLASTIFICANTE PARA\nEMBOÇO/ MASSA ÚNICA/ ASSENTAMENTO DE ALVENARIA DE\nVEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L.\nAF_07/2026\nC 88309 PEDREIRO COM ENCARGOS COMPLEMENTARES H 0,6574816\nC 88316 SERVENTE COM ENCARGOS COMPLEMENTARES H 0,2817778\nC 91692 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHP 0,0366307\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHP DIURNO.\nAF_08/2015\nC 91693 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHI 0,6208509\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHI DIURNO.\nAF_08/2015\n* O item INSUMO 45794 não possuía custo/preço no SINAPI no momento da publicação deste caderno.\n3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 40 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.\n4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".\n5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.\n6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 21/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 22/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107756": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 23,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 40 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 23/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 24/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107757": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 25,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 50 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6 M, ASSENTADO COM ARGAMASSA 1:6 COM ADITIVO. AF_10/2026\nMacroclasse.classe.grupo Vigência Atualização Situação\n01.REVE.PEIT.027/01 10/2026 06/11/2026 SEM CUSTO\n1. ÁRVORE DE FATORES\n2. ITENS DA COMPOSIÇÃO\nTipo Código Descrição Und. Coef.\nI 45795 CHAPIM OU CAPA DE MURO PRE-MOLDADO EM CONCRETO M 1,0274\nTIPO CHAPEU RETO, COM PINGADEIRA, L = 50 CM, E = *3* CM\nC 87283 ARGAMASSA TRAÇO 1:6 (EM VOLUME DE CIMENTO E AREIA M3 0,01\nMÉDIA ÚMIDA) COM ADIÇÃO DE PLASTIFICANTE PARA\nEMBOÇO/ MASSA ÚNICA/ ASSENTAMENTO DE ALVENARIA DE\nVEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA ATÉ 600 L.\nAF_07/2026\nC 88309 PEDREIRO COM ENCARGOS COMPLEMENTARES H 0,7500114\nC 88316 SERVENTE COM ENCARGOS COMPLEMENTARES H 0,3214335\nC 91692 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHP 0,0417859\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHP DIURNO.\nAF_08/2015\nC 91693 SERRA CIRCULAR DE BANCADA COM MOTOR ELÉTRICO CHI 0,7082255\nPOTÊNCIA DE 5HP, COM COIFA PARA DISCO 10\" - CHI DIURNO.\nAF_08/2015\n* O item INSUMO 45795 não possuía custo/preço no SINAPI no momento da publicação deste caderno.\n3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 50 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.\n4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".\n5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.\n6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 25/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 26/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107758": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 27,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo chapéu reto, com pingadeira, largura de 50 cm e espessura de\n3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\nPEITORIS E CHAPINS 27/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 28/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107751": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 29,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim ou capa de muro em granito cinza andorinha ou similar, largura de 15 cm, espessura de 2 cm,\ncorte reto com pingadeira;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.\nPEITORIS E CHAPINS 29/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 9"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 30/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
-  "101976": {
+  "107752": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 18,
+    "pagina_inicial": 31,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"capelinha\", com pingadeira, largura de 19 cm e espessura de 4\ncm;\nPEITORIS E CHAPINS 18\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.",
-      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do chapim.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 19"
-    }
-  },
-  "101978": {
-    "caderno": "Peitoris e Chapins",
-    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 20,
-    "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim em concreto pré-moldado tipo \"capelinha\", com pingadeira, largura de 19 cm e espessura de 4\ncm;\nPEITORIS E CHAPINS 20\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim ou capa de muro em granito cinza andorinha ou similar, largura de 20 cm, espessura de 2 cm,\ncorte reto com pingadeira;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
       "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do chapim.",
-      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 21"
-    }
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.\nPEITORIS E CHAPINS 31/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 32/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107743": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 33,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Chapim ou capa de muro em granito cinza andorinha ou similar, largura de 25 cm, espessura de 2 cm,\ncorte reto com pingadeira;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do chapim.",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.\nPEITORIS E CHAPINS 33/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "7": "7. EXECUÇÃO\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o chapim;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do chapim.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de chapim com comprimento maior de 6 m, mas é\nconsiderada válida, em termos de custo, para situações de chapim menor que 6 m e/ou sobre muros não\nlineares.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 34/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
   "101967": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 10,
+    "pagina_inicial": 35,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em concreto pré-moldado com pingadeira, largura de 25 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.\nPEITORIS E CHAPINS 10\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peça retangular pré-moldada, volume de concreto de até 10 litros, taxa de aço aproximada de 30 kg/\nm³ para constituição de peitoril de largura 15 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte das laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do peitoril.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nPEITORIS E CHAPINS 35/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré- moldadas é considerada na composição auxiliar 97733 - PEÇA\nRETANGULAR PRE-MOLDADA, VOLUME DE CONCRETO DE ATÉ 10 LITROS, TAXA DE AÇO APROXIMADA\nDE 30 KG/M³;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 11"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 36/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
   "101968": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 12,
+    "pagina_inicial": 37,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em concreto pré-moldado com pingadeira, largura de 25 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.\nPEITORIS E CHAPINS 12\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peça retangular pré-moldada, volume de concreto de até 10 litros, taxa de aço aproximada de 30 kg/\nm³ para constituição de peitoril de largura 15 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- A moldagem das peças pré-moldadas não é considerada nessa composição;\n- Considerou-se a execução anterior ao revestimento da fachada.",
-      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte das laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do peitoril.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nPEITORIS E CHAPINS 37/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré- moldadas é considerada na composição auxiliar 97733 - PEÇA\nRETANGULAR PRE-MOLDADA, VOLUME DE CONCRETO DE ATÉ 10 LITROS, TAXA DE AÇO APROXIMADA\nDE 30 KG/M³;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado com colher de pedreiro;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 13"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 38/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107749": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 39,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em concreto pré-moldado de largura 25 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nPEITORIS E CHAPINS 39/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 40/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107750": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 41,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Pedreiro: responsável pela marcação, corte, assentamento e controle do peitoril de concreto pré-\nmoldado;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em concreto pré-moldado de largura 25 cm e espessura de 3 cm;\n- Argamassa traço 1:6 com adição de plastificante, para aumentar a aderência ao substrato, dado em\nvolume de cimento e areia úmida com preparo mecânico em betoneira de 400 litros, utilizada no\nassentamento da peça pré-moldada.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\nPEITORIS E CHAPINS 41/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material de 2,74%;\n- A moldagem das peças pré-moldadas não é considerada nesta composição;\n- Considerou-se a execução anterior ao revestimento.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Molhar a peça de concreto pré-moldado;\n- Aplicar argamassa no substrato e na peça de concreto pré-moldado;\n- Assentar, primeiramente as peças das extremidades e conferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Não se aplica.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 42/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   },
   "101965": {
     "caderno": "Peitoris e Chapins",
     "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
-    "pagina_inicial": 6,
+    "pagina_inicial": 43,
     "secoes": {
-      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em mármore, polido, branco comum, largura de 15cm, espessura de 2cm, com pingadeira, corte\nreto;\nPEITORIS E CHAPINS 6\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Argamassa traço 1:6 com adição de plastificante, dado em volume de cimento e areia úmida: para\naumentar a aderência ao substrato, preparo mecânico em betoneira de 400 litros.",
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em mármore, polido, branco comum, largura de 15 cm, espessura de 2 cm, com pingadeira,\ncorte reto;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
       "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
-      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços de 2 cm nas laterais.",
-      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material;\n- Considerou-se a execução anterior ao revestimento da fachada;\n- Cada peça de granito possui comprimento máximo de 3 m.",
-      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte das laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada;\n- Assentar, primeiramente as peças das extremidades e conferir nível e prumo;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir alinhamento e nível;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com madeirite ou similar para não ser danificado durante a execução da fachada.",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material equivalente a 3,01%;\nPEITORIS E CHAPINS 43/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Caso seja formado por mais de uma peça, assentar, primeiramente as peças das extremidades e\nconferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com compensado de madeira ou similar para não ser danificado durante a\nexecução da fachada.",
       "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de peitoril com comprimento maior que 2 m, mas é\nconsiderada válida, em termos de custo, para situação de peitoril menor que 2 m.",
-      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 7"
-    }
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 44/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107745": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 45,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em granito cinza andorinha, polido, largura de 17 cm, espessura de 2 cm, com pingadeira,\ncorte reto;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\nPEITORIS E CHAPINS 45/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Caso seja formado por mais de uma peça, assentar, primeiramente as peças das extremidades e\nconferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com compensado de madeira ou similar para não ser danificado durante a\nexecução da fachada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de peitoril com comprimento maior que 2 m, mas é\nconsiderada válida, em termos de custo, para situação de peitoril menor que 2 m.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 46/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107746": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 47,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em granito cinza andorinha, polido, largura de 20 cm, espessura de 2 cm, com pingadeira,\ncorte reto;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\nPEITORIS E CHAPINS 47/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Caso seja formado por mais de uma peça, assentar, primeiramente as peças das extremidades e\nconferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com compensado de madeira ou similar para não ser danificado durante a\nexecução da fachada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de peitoril com comprimento maior que 2 m, mas é\nconsiderada válida, em termos de custo, para situação de peitoril menor que 2 m.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 48/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107747": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 49,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril/soleira em mármore, polido, branco comum, largura de 25 cm, espessura de 3 cm, corte reto;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\nPEITORIS E CHAPINS 49/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Cada peça de granito possui comprimento máximo de 3 m.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Caso seja formado por mais de uma peça, assentar, primeiramente as peças das extremidades e\nconferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com compensado de madeira ou similar para não ser danificado durante a\nexecução da fachada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de peitoril com comprimento maior que 2 m, mas é\nconsiderada válida, em termos de custo, para situação de peitoril menor que 2 m.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 50/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
+  },
+  "107748": {
+    "caderno": "Peitoris e Chapins",
+    "arquivo": "SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pagina_inicial": 51,
+    "secoes": {
+      "3": "3. ITENS E SUAS CARACTERÍSTICAS\n- Marmorista/graniteiro: responsável pela marcação, corte, assentamento e controle do peitoril de\nmármore ou granito;\n- Servente: responsável por transportar os materiais, preparar argamassa e auxiliar o oficial em todas as\ntarefas;\n- Peitoril em granito cinza andorinha, polido, largura de 30 cm, espessura de 2 cm, com pingadeira,\ncorte reto;\n- Argamassa colante AC-III, utilizada no assentamento da peça.",
+      "4": "4. EQUIPAMENTOS\n- Serra circular de bancada com motor elétrico potência 5 HP, com coifa para disco 10\".",
+      "5": "5. CRITÉRIOS PARA QUANTIFICAÇÃO DOS SERVIÇOS\n- Utilizar o comprimento total do peitoril, inclusive avanços laterais, quando previstos",
+      "6": "6. CRITÉRIOS DE AFERIÇÃO\n- Para o levantamento dos índices de produtividade foram considerados os oficiais e os serventes que\nauxiliavam diretamente nas proximidades do local de execução;\nPEITORIS E CHAPINS 51/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\n- Foram consideradas perdas de material equivalente a 3,01%;\n- Considerou-se a execução anterior ao revestimento;\n- Cada peça de granito possui comprimento máximo de 3 m.",
+      "7": "7. EXECUÇÃO\n- Cortar com serra circular parte da superfície das empenas laterais para abrigar os avanços do peitoril;\n- Limpar a superfície onde será assentada a peça, deixando-a livre de irregularidades, poeira ou outros\nmateriais que dificultam a aderência da argamassa;\n- Molhar toda a superfície utilizando broxa;\n- Aplicar argamassa no substrato e na peça de mármore/granito e passar desempenadeira dentada em\nambas as superfícies;\n- Caso seja formado por mais de uma peça, assentar, primeiramente as peças das extremidades e\nconferir nível, prumo e alinhamento;\n- Esticar a linha guia para assentamento das demais peças;\n- Repetir o procedimento de assentamento das peças até completar o peitoril;\n- Quando necessário, efetuar corte da peça com serra circular adequada para mármores e granitos;\n- Conferir nível, prumo e alinhamento;\n- Fazer o acabamento da parte inferior do peitoril;\n- Proteger o peitoril com compensado de madeira ou similar para não ser danificado durante a\nexecução da fachada.",
+      "8": "8. INFORMAÇÕES COMPLEMENTARES\n- Esta composição foi calculada para a situação de peitoril com comprimento maior que 2 m, mas é\nconsiderada válida, em termos de custo, para situação de peitoril menor que 2 m.",
+      "9": "9. PENDÊNCIAS\n- Não se aplica.\nPEITORIS E CHAPINS 52/53\nCADERNO TÉCNICO DE COMPOSIÇÕES SINAPI\nIV. BIBLIOGRAFIA\n- CALHA FORTE. Manual técnico - Instalação Rufo Capa. Disponível em: https://www.calhaforte.com.br/\nfaca-voce-mesmo/. Acessado em 12 de agosto de 2026.\n- FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO - FDE. Catálogo de Componentes. São\nPaulo: FDE, janeiro de 2020.\n- LUDOVICO, T. Desempenho a estanqueidade à água: interface janela e parede. Dissertação de\nMestrado. Universidade Federal de Santa Maria, RS, 2016.\nPEITORIS E CHAPINS 53/53"
+    },
+    "pdf_url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PEITORIS-E-CHAPINS.pdf",
+    "pdf_modificado": "Thu, 12 Nov 2026 11:57:23 GMT",
+    "base_sinapi": "2026-10",
+    "processado_em": "2026-11-21T01:40:18+00:00"
   }
 }
