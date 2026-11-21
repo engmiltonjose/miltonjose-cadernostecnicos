@@ -55,8 +55,10 @@ def get_json(url):
 
 
 def slug(nome):
-    """Mesmo nome de arquivo do extrator original (o Quantify procura por ele)."""
-    return nome.lower().replace(" ", "-") + ".json"
+    """Mesmo nome de arquivo do extrator original (o Quantify procura pelo nome que está no INDEX.json),
+    sem os caracteres proibidos no Windows (: * ? " < > | / \\) — com ':' o clone no Windows quebra."""
+    s = re.sub(r'[:*?"<>|/\\]+', "", nome.lower().replace(" ", "-"))
+    return re.sub(r"-{2,}", "-", s) + ".json"
 
 
 # ─── Extração (lógica do processar-cadernos.py original) ─────────────────────
