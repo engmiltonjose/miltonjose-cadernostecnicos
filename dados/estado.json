@@ -22,7 +22,7 @@
    "etag": "\"{96B3C1E7-09FD-4E86-B422-5DB0163FFA62},3pub\"",
    "sha1": "64d1ae704b360b4eda49e3553e9a8941dc6f6e66",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-CERAMICOS.pdf",
-   "processado_em": "2026-11-21T00:58:53+00:00"
+   "processado_em": "2026-11-21T12:39:11+00:00"
   },
   "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf": {
    "tamanho": 2562119,
@@ -30,7 +30,7 @@
    "etag": "\"{382B84DC-D660-4088-A1F5-3D098F0411C0},3pub\"",
    "sha1": "a066e942be11104e1ba0cdc9be08053fd3d3e26c",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
-   "processado_em": "2026-11-21T00:59:07+00:00"
+   "processado_em": "2026-11-21T12:39:23+00:00"
   },
   "SINAPI-CT-ALVENARIAS-DIVERSAS.pdf": {
    "tamanho": 1307496,
@@ -134,7 +134,7 @@
    "etag": "\"{27F77C83-C2C9-47A8-88F4-C4CEB64FCF93},4pub\"",
    "sha1": "f12d2c62c1941b3dd49d40518ee0020e7f920244",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-BOMBAS-HIDRAULICAS-CENTRIFUGAS-HORIZONTAIS-E-SUBMERSIVEIS.pdf",
-   "processado_em": "2026-11-21T01:06:55+00:00"
+   "processado_em": "2026-11-21T12:39:29+00:00"
   },
   "SINAPI-CT-BRISES.pdf": {
    "tamanho": 620886,
@@ -390,7 +390,7 @@
    "etag": "\"{0C1C56E3-A164-4A9E-AA25-15F381460C24},3pub\"",
    "sha1": "e27ab9363ba5a63a8218ed4252363d2ed163188e",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ESQUADRIAS-JANELAS.pdf",
-   "processado_em": "2026-11-21T01:17:34+00:00"
+   "processado_em": "2026-11-21T12:39:37+00:00"
   },
   "SINAPI-CT-ESQUADRIAS-PORTAS.pdf": {
    "tamanho": 5803963,
@@ -398,7 +398,7 @@
    "etag": "\"{F210CFF8-D4EA-44E9-8098-B526AC4FC5EB},3pub\"",
    "sha1": "853d9c8b14190b7d683650590e3087adcd15db5d",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ESQUADRIAS-PORTAS.pdf",
-   "processado_em": "2026-11-21T01:18:08+00:00"
+   "processado_em": "2026-11-21T12:40:05+00:00"
   },
   "SINAPI-CT-ESTACAS-BROCA-STRAUSS-E-ESCAVADA-COM-FLUIDO-ESTABILIZANTE.pdf": {
    "tamanho": 1205777,
@@ -470,7 +470,7 @@
    "etag": "\"{5B3C2437-C427-437A-8DD4-3FEFBBE5F4BE},5pub\"",
    "sha1": "d2a6a0820c3f54f63e6d3c36f419824e32d3131b",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ESTRUTURAS-DE-CONTENCAO-PERFIS-PRANCHADOS-CORTINAS-E-MUROS-DE-ARRIMO.pdf",
-   "processado_em": "2026-11-21T01:20:08+00:00"
+   "processado_em": "2026-11-21T12:42:14+00:00"
   },
   "SINAPI-CT-ESTRUTURAS-DE-MADEIRA.pdf": {
    "tamanho": 3111309,
@@ -566,7 +566,7 @@
    "etag": "\"{6A4BB34E-1E4C-4F3F-AC04-2FA250AF9B57},6pub\"",
    "sha1": "d3f2541a19a551b551a115c9c09e966b97d9a7ab",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-GABIOES-EXECUCAO-DE-MURO-E-PROTECAO-SUPERFICIAL.pdf",
-   "processado_em": "2026-11-21T01:23:01+00:00"
+   "processado_em": "2026-11-21T12:44:22+00:00"
   },
   "SINAPI-CT-GALERIAS-COM-ADUELAS-DE-CONCRETO.pdf": {
    "tamanho": 2168263,
@@ -622,7 +622,7 @@
    "etag": "\"{D7397DC8-F58E-4C22-8A7C-DFEE9C465F23},7pub\"",
    "sha1": "a9415f5e0ed4fb645e7983b31522dd13af3f044f",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ILUMINACAO-PREDIAL-E-MONITORAMENTO.pdf",
-   "processado_em": "2026-11-21T01:24:07+00:00"
+   "processado_em": "2026-11-21T12:44:31+00:00"
   },
   "SINAPI-CT-IMPERMEABILIZACAO-PROTECAO-MECANICA-E-TRATAMENTO-DE-JUNTA.pdf": {
    "tamanho": 2463653,
@@ -686,7 +686,7 @@
    "etag": "\"{51956D36-26F7-45EC-B31D-C41D10CFA42A},4pub\"",
    "sha1": "099ce912ed8dc320703123d0f9adf41a26f65f13",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-ELETRICAS-ELETRODUTOS-EMBUTIDOS-CABOS-CAIXAS-TOMADAS-E-INTERRUPTORES.pdf",
-   "processado_em": "2026-11-21T01:27:27+00:00"
+   "processado_em": "2026-11-21T12:47:06+00:00"
   },
   "SINAPI-CT-INSTALACOES-ELETRICAS-QUADROS-CABOS-DISJUNTORES-CONTATORES-E-BARRAMENTOS-BLINDADOS.pdf": {
    "tamanho": 3566134,
@@ -734,7 +734,7 @@
    "etag": "\"{9482F015-54EF-4F3C-8B45-9E78C5ABFA1F},9pub\"",
    "sha1": "3f111ac6c6a69ead45fd030bf2c6d270713e46d4",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-HIDRAULICAS-RESERVACAO-E-BOMBAS-DE-RECALQUE.pdf",
-   "processado_em": "2026-11-21T01:32:23+00:00"
+   "processado_em": "2026-11-21T12:49:20+00:00"
   },
   "SINAPI-CT-INSTALACOES-PARA-CANTEIROS-DE-OBRAS.pdf": {
    "tamanho": 1873975,
@@ -766,7 +766,7 @@
    "etag": "\"{4E1384A2-19B7-4FF0-9F1B-7B24138EC60A},6pub\"",
    "sha1": "dff7ba9d8923d628e4999412e3dadd721cf3203b",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-PREDIAIS-DE-AGUAS-PLUVIAIS-TUBOS-CONEXOES-CAIXAS-E-RALOS.pdf",
-   "processado_em": "2026-11-21T01:34:56+00:00"
+   "processado_em": "2026-11-21T12:49:44+00:00"
   },
   "SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-CAIXAS-E-RALOS.pdf": {
    "tamanho": 494647,
@@ -774,7 +774,7 @@
    "etag": "\"{95103392-E7D9-4DB4-AEBA-EA7B4CA028AF},6pub\"",
    "sha1": "45b8dadbbb816f7720b8d6811ba4b7cb6e66b66f",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-CAIXAS-E-RALOS.pdf",
-   "processado_em": "2026-11-21T01:34:59+00:00"
+   "processado_em": "2026-11-21T12:49:48+00:00"
   },
   "SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-TUBOS-E-CONEXOES.pdf": {
    "tamanho": 5355012,
@@ -782,7 +782,7 @@
    "etag": "\"{C01BC4EE-DD53-4D5D-B11F-DABB1EFBF7E4},6pub\"",
    "sha1": "1b18714538b70b1b255329ffe9648d495f604c49",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-TUBOS-E-CONEXOES.pdf",
-   "processado_em": "2026-11-21T01:35:29+00:00"
+   "processado_em": "2026-11-21T12:50:10+00:00"
   },
   "SINAPI-CT-LAJES-PRE-MOLDADAS.pdf": {
    "tamanho": 3268400,
@@ -894,7 +894,7 @@
    "etag": "\"{382DECC3-4F02-4F25-BADB-5951D8A10761},6pub\"",
    "sha1": "dced2e04fc347b3b35de833421534e1b84b6838e",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAISAGISMO-PLANTIO.pdf",
-   "processado_em": "2026-11-21T01:38:33+00:00"
+   "processado_em": "2026-11-21T12:50:16+00:00"
   },
   "SINAPI-CT-PAREDES-DE-CONCRETO-ARMACAO.pdf": {
    "tamanho": 2398982,
@@ -902,7 +902,7 @@
    "etag": "\"{EF41B69D-1C58-47A2-992A-14D26B5C14B7},8pub\"",
    "sha1": "e07ff82c60b5455118febe529836673faea73523",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAREDES-DE-CONCRETO-ARMACAO.pdf",
-   "processado_em": "2026-11-21T01:38:42+00:00"
+   "processado_em": "2026-11-21T12:50:22+00:00"
   },
   "SINAPI-CT-PAREDES-DE-CONCRETO-CONCRETAGEM.pdf": {
    "tamanho": 920073,
@@ -918,7 +918,7 @@
    "etag": "\"{5E383A4F-6562-41A2-A07F-460CCBA30707},7pub\"",
    "sha1": "69b7a8214d39a1cc71fcb7248986fb37291ebc46",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAREDES-DE-CONCRETO-ESTUCAMENTO.pdf",
-   "processado_em": "2026-11-21T01:38:57+00:00"
+   "processado_em": "2026-11-21T12:52:31+00:00"
   },
   "SINAPI-CT-PAREDES-DE-CONCRETO-FORMAS.pdf": {
    "tamanho": 616332,
@@ -926,7 +926,7 @@
    "etag": "\"{4FD34C49-5370-41F1-A6AB-C97601DA3E34},7pub\"",
    "sha1": "5b95d1a72b7d60f21d6869e4240d64f3a795dd91",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAREDES-DE-CONCRETO-FORMAS.pdf",
-   "processado_em": "2026-11-21T01:39:02+00:00"
+   "processado_em": "2026-11-21T12:52:34+00:00"
   },
   "SINAPI-CT-PAREDES-EM-DRYWALL.pdf": {
    "tamanho": 1485330,
@@ -958,7 +958,7 @@
    "etag": "\"{07EB2329-4758-46E3-8B83-9B71818CD097},6pub\"",
    "sha1": "13c9be3661e45c8745d558c823447f49cee879fd",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAVIMENTACOES-DIVERSAS-PARALELEPIPEDOS-E-PEDRAS-POLIEDRICAS.pdf",
-   "processado_em": "2026-11-21T01:39:35+00:00"
+   "processado_em": "2026-11-21T12:52:37+00:00"
   },
   "SINAPI-CT-PAVIMENTO-INTERTRAVADO.pdf": {
    "tamanho": 1766137,
@@ -1006,7 +1006,7 @@
    "etag": "\"{B381B28B-678B-446C-B5F3-0AB5F292B1DA},6pub\"",
    "sha1": "cadbcda636c11fd0d65f63965919875b8774400b",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PERFURACAO-HORIZONTAL-DIRECIONAL-HDD.pdf",
-   "processado_em": "2026-11-21T01:41:11+00:00"
+   "processado_em": "2026-11-21T12:53:14+00:00"
   },
   "SINAPI-CT-PINTURA-EM-MADEIRA.pdf": {
    "tamanho": 1397562,
@@ -1206,7 +1206,7 @@
    "etag": "\"{C4014A2E-4B51-48EF-881C-D3EE5FF784B3},6pub\"",
    "sha1": "d532022f1bd8e856274dadb1050394d47e268268",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SISTEMA-DE-PROTECAO-CONTRA-DESCARGAS-ATMOSFERICAS-SPDA.pdf",
-   "processado_em": "2026-11-21T01:48:09+00:00"
+   "processado_em": "2026-11-21T12:53:22+00:00"
   },
   "SINAPI-CT-SISTEMAS-DE-MEDICAO-DE-GAS.pdf": {
    "tamanho": 2189459,
@@ -1230,7 +1230,7 @@
    "etag": "\"{736915CF-F831-413D-9ADE-A972A1D55113},6pub\"",
    "sha1": "645975331776c95c9355a9b155da842abf259d1a",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-SISTEMAS-HOSPITALARES-PONTOS-DE-CONSUMO.pdf",
-   "processado_em": "2026-11-21T01:48:48+00:00"
+   "processado_em": "2026-11-21T12:53:24+00:00"
   },
   "SINAPI-CT-SOLDA-DE-TOPO-EM-ELEMENTOS-DE-ACO.pdf": {
    "tamanho": 3760130,
@@ -1286,7 +1286,7 @@
    "etag": "\"{05A22B2F-C478-409B-9855-BF07A0EFEEFB},6pub\"",
    "sha1": "74972a96bcdbcd738b31526757a9f83b9655ef28",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-TRANSPORTE-FLUVIAL-CARGA-E-DESCARGA.pdf",
-   "processado_em": "2026-11-21T01:51:35+00:00"
+   "processado_em": "2026-11-21T12:53:48+00:00"
   },
   "SINAPI-CT-TRANSPORTE-FLUVIAL-MOMENTO-DE-TRANSPORTE.pdf": {
    "tamanho": 393620,
@@ -1294,7 +1294,7 @@
    "etag": "\"{71B2436D-5B5C-406C-8DDA-7A6D0D1865E2},6pub\"",
    "sha1": "e86eda8e0dd340a2ce7f0eeeaa818a7704cbea1e",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-TRANSPORTE-FLUVIAL-MOMENTO-DE-TRANSPORTE.pdf",
-   "processado_em": "2026-11-21T01:51:40+00:00"
+   "processado_em": "2026-11-21T12:53:50+00:00"
   },
   "SINAPI-CT-TRATAMENTOS-SUPERFICIAIS.pdf": {
    "tamanho": 1686588,
@@ -1389,14 +1389,14 @@
    "assinatura": "05b45c90203d135dfb1c1aed0e4d4a6c0a671777",
    "composicoes": 30,
    "com_texto": 30,
-   "processado_em": "2026-11-21T00:58:53+00:00"
+   "processado_em": "2026-11-21T12:39:11+00:00"
   },
   "Alvenaria Estrutural - Blocos de Concreto": {
    "pdf": "SINAPI-CT-ALVENARIA-ESTRUTURAL-BLOCOS-DE-CONCRETO.pdf",
    "assinatura": "6d81bf6585bfe0ab1363dc3a2556e7cf7b10645d",
    "composicoes": 44,
    "com_texto": 44,
-   "processado_em": "2026-11-21T00:59:07+00:00"
+   "processado_em": "2026-11-21T12:39:23+00:00"
   },
   "Alvenarias Diversas": {
    "pdf": "SINAPI-CT-ALVENARIAS-DIVERSAS.pdf",
@@ -1487,7 +1487,7 @@
    "assinatura": "b3d006c65e6af93f45fee5d4bee798ecad6538de",
    "composicoes": 25,
    "com_texto": 25,
-   "processado_em": "2026-11-21T01:06:55+00:00"
+   "processado_em": "2026-11-21T12:39:29+00:00"
   },
   "Brises": {
    "pdf": "SINAPI-CT-BRISES.pdf",
@@ -1711,14 +1711,14 @@
    "assinatura": "ecd2132d29c023bccb3992a35e4c55b326e6d93f",
    "composicoes": 31,
    "com_texto": 31,
-   "processado_em": "2026-11-21T01:17:34+00:00"
+   "processado_em": "2026-11-21T12:39:37+00:00"
   },
   "Esquadrias - Portas": {
    "pdf": "SINAPI-CT-ESQUADRIAS-PORTAS.pdf",
    "assinatura": "a9564ee8d2d858b3c216fc1c4ef74cfaf7d7ece5",
    "composicoes": 132,
    "com_texto": 132,
-   "processado_em": "2026-11-21T01:18:08+00:00"
+   "processado_em": "2026-11-21T12:40:05+00:00"
   },
   "Estacas Broca, Strauss e Escavada com Fluido Estabilizante": {
    "pdf": "SINAPI-CT-ESTACAS-BROCA-STRAUSS-E-ESCAVADA-COM-FLUIDO-ESTABILIZANTE.pdf",
@@ -1781,7 +1781,7 @@
    "assinatura": "08bf5d1dc57a1c2d05de822e04e98e01b836f6c3",
    "composicoes": 20,
    "com_texto": 20,
-   "processado_em": "2026-11-21T01:20:08+00:00"
+   "processado_em": "2026-11-21T12:42:14+00:00"
   },
   "Estruturas de Madeira": {
    "pdf": "SINAPI-CT-ESTRUTURAS-DE-MADEIRA.pdf",
@@ -1865,7 +1865,7 @@
    "assinatura": "edc8c430a1edec732a45549c41461c2f2644f5ff",
    "composicoes": 16,
    "com_texto": 16,
-   "processado_em": "2026-11-21T01:23:01+00:00"
+   "processado_em": "2026-11-21T12:44:22+00:00"
   },
   "Galerias com Aduelas de Concreto": {
    "pdf": "SINAPI-CT-GALERIAS-COM-ADUELAS-DE-CONCRETO.pdf",
@@ -1921,7 +1921,7 @@
    "assinatura": "1987c610f40b39a806510805c9a356cba56913f0",
    "composicoes": 376,
    "com_texto": 0,
-   "processado_em": "2026-11-21T01:24:07+00:00"
+   "processado_em": "2026-11-21T12:44:31+00:00"
   },
   "Impermeabilização, Proteção Mecânica e Tratamento de Junta": {
    "pdf": "SINAPI-CT-IMPERMEABILIZACAO-PROTECAO-MECANICA-E-TRATAMENTO-DE-JUNTA.pdf",
@@ -1977,7 +1977,7 @@
    "assinatura": "c512538de3871e8a6904511a20087c6cd5fae7c5",
    "composicoes": 202,
    "com_texto": 202,
-   "processado_em": "2026-11-21T01:27:27+00:00"
+   "processado_em": "2026-11-21T12:47:06+00:00"
   },
   "Instalações Elétricas - Quadros, Cabos, Disjuntores, Contatores e Barramentos Blindados": {
    "pdf": "SINAPI-CT-INSTALACOES-ELETRICAS-QUADROS-CABOS-DISJUNTORES-CONTATORES-E-BARRAMENTOS-BLINDADOS.pdf",
@@ -2019,7 +2019,7 @@
    "assinatura": "9e375d80c600a197774188cdb116389bad14a195",
    "composicoes": 306,
    "com_texto": 306,
-   "processado_em": "2026-11-21T01:32:23+00:00"
+   "processado_em": "2026-11-21T12:49:20+00:00"
   },
   "Instalações para Canteiros de Obras": {
    "pdf": "SINAPI-CT-INSTALACOES-PARA-CANTEIROS-DE-OBRAS.pdf",
@@ -2047,21 +2047,21 @@
    "assinatura": "2e4ebb6f983a60c059f6838da2c2b9fb85559c18",
    "composicoes": 86,
    "com_texto": 86,
-   "processado_em": "2026-11-21T01:34:56+00:00"
+   "processado_em": "2026-11-21T12:49:44+00:00"
   },
   "Instalações Prediais de Esgoto - Caixas e Ralos": {
    "pdf": "SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-CAIXAS-E-RALOS.pdf",
    "assinatura": "f1a613ab0e60e58db76f943e1d40dadebb76e0cf",
    "composicoes": 9,
    "com_texto": 9,
-   "processado_em": "2026-11-21T01:34:59+00:00"
+   "processado_em": "2026-11-21T12:49:48+00:00"
   },
   "Instalações Prediais de Esgoto - Tubos e Conexões": {
    "pdf": "SINAPI-CT-INSTALACOES-PREDIAIS-DE-ESGOTO-TUBOS-E-CONEXOES.pdf",
    "assinatura": "d8fa6eeeebdbb51f8b4ec6c82d2fdd0eb921a2ec",
    "composicoes": 90,
    "com_texto": 90,
-   "processado_em": "2026-11-21T01:35:29+00:00"
+   "processado_em": "2026-11-21T12:50:10+00:00"
   },
   "Lajes Pré-Moldadas": {
    "pdf": "SINAPI-CT-LAJES-PRE-MOLDADAS.pdf",
@@ -2159,14 +2159,14 @@
    "assinatura": "e14080640cc08b062504d0bad3754d9889bbfc9c",
    "composicoes": 21,
    "com_texto": 21,
-   "processado_em": "2026-11-21T01:38:33+00:00"
+   "processado_em": "2026-11-21T12:50:16+00:00"
   },
   "Paredes de Concreto - Armação": {
    "pdf": "SINAPI-CT-PAREDES-DE-CONCRETO-ARMACAO.pdf",
    "assinatura": "5cf196df4b18c40df6121f5f0428de477ba49add",
    "composicoes": 20,
    "com_texto": 20,
-   "processado_em": "2026-11-21T01:38:42+00:00"
+   "processado_em": "2026-11-21T12:50:22+00:00"
   },
   "Paredes de Concreto - Concretagem": {
    "pdf": "SINAPI-CT-PAREDES-DE-CONCRETO-CONCRETAGEM.pdf",
@@ -2180,14 +2180,14 @@
    "assinatura": "eb53749391aa65ec8c9866a6f2f45ea48a1a5791",
    "composicoes": 31,
    "com_texto": 31,
-   "processado_em": "2026-11-21T01:38:57+00:00"
+   "processado_em": "2026-11-21T12:52:31+00:00"
   },
   "Paredes de Concreto - Fôrmas": {
    "pdf": "SINAPI-CT-PAREDES-DE-CONCRETO-FORMAS.pdf",
    "assinatura": "79f684bd0cee67de111b03133a1ce4fcdc6c6e73",
    "composicoes": 10,
    "com_texto": 10,
-   "processado_em": "2026-11-21T01:39:02+00:00"
+   "processado_em": "2026-11-21T12:52:34+00:00"
   },
   "Paredes em Drywall": {
    "pdf": "SINAPI-CT-PAREDES-EM-DRYWALL.pdf",
@@ -2215,7 +2215,7 @@
    "assinatura": "700e9ff156a59b6caec8254cdf1a196468e6d03a",
    "composicoes": 12,
    "com_texto": 6,
-   "processado_em": "2026-11-21T01:39:35+00:00"
+   "processado_em": "2026-11-21T12:52:37+00:00"
   },
   "Pavimento Intertravado": {
    "pdf": "SINAPI-CT-PAVIMENTO-INTERTRAVADO.pdf",
@@ -2257,7 +2257,7 @@
    "assinatura": "840f87f591888de9ddd44c77962c7240439868c1",
    "composicoes": 66,
    "com_texto": 66,
-   "processado_em": "2026-11-21T01:41:11+00:00"
+   "processado_em": "2026-11-21T12:53:14+00:00"
   },
   "Pintura em Madeira": {
    "pdf": "SINAPI-CT-PINTURA-EM-MADEIRA.pdf",
@@ -2432,7 +2432,7 @@
    "assinatura": "27e372776f860cf82a8fd4b2b908c43b539d3e0a",
    "composicoes": 35,
    "com_texto": 35,
-   "processado_em": "2026-11-21T01:48:09+00:00"
+   "processado_em": "2026-11-21T12:53:22+00:00"
   },
   "Sistemas de Medição de Gás": {
    "pdf": "SINAPI-CT-SISTEMAS-DE-MEDICAO-DE-GAS.pdf",
@@ -2453,7 +2453,7 @@
    "assinatura": "63d7491234c3087a9e4a188b08bb0223cb6c10cf",
    "composicoes": 5,
    "com_texto": 5,
-   "processado_em": "2026-11-21T01:48:48+00:00"
+   "processado_em": "2026-11-21T12:53:24+00:00"
   },
   "Solda de Topo em Elementos de Aço": {
    "pdf": "SINAPI-CT-SOLDA-DE-TOPO-EM-ELEMENTOS-DE-ACO.pdf",
@@ -2502,14 +2502,14 @@
    "assinatura": "059d70d58e67239bb5e4b5cbf6ce5c4ecc392a05",
    "composicoes": 100,
    "com_texto": 100,
-   "processado_em": "2026-11-21T01:51:35+00:00"
+   "processado_em": "2026-11-21T12:53:48+00:00"
   },
   "Transporte Fluvial - Momento de Transporte": {
    "pdf": "SINAPI-CT-TRANSPORTE-FLUVIAL-MOMENTO-DE-TRANSPORTE.pdf",
    "assinatura": "aefb5defa86c6430391140830feba421e44d768b",
    "composicoes": 8,
    "com_texto": 8,
-   "processado_em": "2026-11-21T01:51:40+00:00"
+   "processado_em": "2026-11-21T12:53:50+00:00"
   },
   "Tratamentos Superficiais": {
    "pdf": "SINAPI-CT-TRATAMENTOS-SUPERFICIAIS.pdf",
@@ -2576,5 +2576,5 @@
   }
  },
  "base_sinapi": "2026-10",
- "atualizado_em": "2026-11-21T01:54:03+00:00"
+ "atualizado_em": "2026-11-21T12:53:51+00:00"
 }

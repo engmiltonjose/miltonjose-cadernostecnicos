@@ -1,8 +1,8 @@
 {
-  "total_composicoes": 10743,
+  "total_composicoes": 12042,
   "total_cadernos": 173,
   "base_sinapi": "2026-10",
-  "atualizado_em": "2026-11-21T01:54:03+00:00",
+  "atualizado_em": "2026-11-21T12:53:51+00:00",
   "data": {
     "104658": "Acessibilidade",
     "105002": "Acessibilidade",
@@ -10764,7 +10764,7 @@
       ]
     },
     "Alvenaria Estrutural - Blocos Cerâmicos": {
-      "arquivo": "alvenaria-estrutural---blocos-cerâmicos.json",
+      "arquivo": "alvenaria-estrutural-blocos-cerâmicos.json",
       "composicoes": [
         "107344",
         "107342",
@@ -10799,7 +10799,7 @@
       ]
     },
     "Alvenaria Estrutural - Blocos de Concreto": {
-      "arquivo": "alvenaria-estrutural---blocos-de-concreto.json",
+      "arquivo": "alvenaria-estrutural-blocos-de-concreto.json",
       "composicoes": [
         "107368",
         "105771",
@@ -11920,7 +11920,7 @@
       ]
     },
     "Bombas Hidráulicas - Centrífugas, Horizontais e Submersíveis": {
-      "arquivo": "bombas-hidráulicas---centrífugas,-horizontais-e-submersíveis.json",
+      "arquivo": "bombas-hidráulicas-centrífugas,-horizontais-e-submersíveis.json",
       "composicoes": [
         "102111",
         "102113",
@@ -14660,7 +14660,7 @@
       ]
     },
     "Esquadrias - Janelas": {
-      "arquivo": "esquadrias---janelas.json",
+      "arquivo": "esquadrias-janelas.json",
       "composicoes": [
         "100674",
         "100664",
@@ -14696,7 +14696,7 @@
       ]
     },
     "Esquadrias - Portas": {
-      "arquivo": "esquadrias---portas.json",
+      "arquivo": "esquadrias-portas.json",
       "composicoes": [
         "105925",
         "100659",
@@ -15119,7 +15119,7 @@
       ]
     },
     "Estruturas de Contenção - Perfis Pranchados, Cortinas e Muros de Arrimo": {
-      "arquivo": "estruturas-de-contenção---perfis-pranchados,-cortinas-e-muros-de-arrimo.json",
+      "arquivo": "estruturas-de-contenção-perfis-pranchados,-cortinas-e-muros-de-arrimo.json",
       "composicoes": [
         "100344",
         "100345",
@@ -15602,7 +15602,7 @@
       ]
     },
     "Gabiões - Execução de Muro e Proteção Superficial": {
-      "arquivo": "gabiões---execução-de-muro-e-proteção-superficial.json",
+      "arquivo": "gabiões-execução-de-muro-e-proteção-superficial.json",
       "composicoes": [
         "92751",
         "92752",
@@ -16492,7 +16492,7 @@
       ]
     },
     "Instalações Elétricas - Eletrodutos Embutidos, Cabos, Caixas, Tomadas e Interruptores": {
-      "arquivo": "instalações-elétricas---eletrodutos-embutidos,-cabos,-caixas,-tomadas-e-interruptores.json",
+      "arquivo": "instalações-elétricas-eletrodutos-embutidos,-cabos,-caixas,-tomadas-e-interruptores.json",
       "composicoes": [
         "91925",
         "91924",
@@ -17157,7 +17157,7 @@
       ]
     },
     "Instalações Hidráulicas - Reservação e Bombas de Recalque": {
-      "arquivo": "instalações-hidráulicas---reservação-e-bombas-de-recalque.json",
+      "arquivo": "instalações-hidráulicas-reservação-e-bombas-de-recalque.json",
       "composicoes": [
         "94764",
         "94765",
@@ -17756,7 +17756,7 @@
       ]
     },
     "Instalações Prediais de Esgoto - Caixas e Ralos": {
-      "arquivo": "instalações-prediais-de-esgoto---caixas-e-ralos.json",
+      "arquivo": "instalações-prediais-de-esgoto-caixas-e-ralos.json",
       "composicoes": [
         "104328",
         "104329",
@@ -17770,7 +17770,7 @@
       ]
     },
     "Instalações Prediais de Esgoto - Tubos e Conexões": {
-      "arquivo": "instalações-prediais-de-esgoto---tubos-e-conexões.json",
+      "arquivo": "instalações-prediais-de-esgoto-tubos-e-conexões.json",
       "composicoes": [
         "104341",
         "104357",
@@ -18250,7 +18250,7 @@
       ]
     },
     "Instalações Prediais de Águas Pluviais - Tubos, Conexões, Caixas e Ralos": {
-      "arquivo": "instalações-prediais-de-águas-pluviais---tubos,-conexões,-caixas-e-ralos.json",
+      "arquivo": "instalações-prediais-de-águas-pluviais-tubos,-conexões,-caixas-e-ralos.json",
       "composicoes": [
         "89546",
         "89482",
@@ -18490,7 +18490,7 @@
       ]
     },
     "Livro SINAPI: Cálculos e Parâmetros": {
-      "arquivo": "livro-sinapi:-cálculos-e-parâmetros.json",
+      "arquivo": "livro-sinapi-cálculos-e-parâmetros.json",
       "composicoes": [
         "88238",
         "101374",
@@ -19360,7 +19360,7 @@
       ]
     },
     "Paisagismo - Plantio": {
-      "arquivo": "paisagismo---plantio.json",
+      "arquivo": "paisagismo-plantio.json",
       "composicoes": [
         "98520",
         "98521",
@@ -19386,7 +19386,7 @@
       ]
     },
     "Paredes de Concreto - Armação": {
-      "arquivo": "paredes-de-concreto---armação.json",
+      "arquivo": "paredes-de-concreto-armação.json",
       "composicoes": [
         "91599",
         "100065",
@@ -19432,7 +19432,7 @@
       ]
     },
     "Paredes de Concreto - Estucamento": {
-      "arquivo": "paredes-de-concreto---estucamento.json",
+      "arquivo": "paredes-de-concreto-estucamento.json",
       "composicoes": [
         "104422",
         "105824",
@@ -19468,7 +19468,7 @@
       ]
     },
     "Paredes de Concreto - Fôrmas": {
-      "arquivo": "paredes-de-concreto---fôrmas.json",
+      "arquivo": "paredes-de-concreto-fôrmas.json",
       "composicoes": [
         "102569",
         "102574",
@@ -19575,7 +19575,7 @@
       ]
     },
     "Pavimentações Diversas - Paralelepípedos e Pedras Poliédricas": {
-      "arquivo": "pavimentações-diversas---paralelepípedos-e-pedras-poliédricas.json",
+      "arquivo": "pavimentações-diversas-paralelepípedos-e-pedras-poliédricas.json",
       "composicoes": [
         "101169",
         "107710",
@@ -19714,7 +19714,7 @@
       ]
     },
     "Perfuração Horizontal Direcional - HDD": {
-      "arquivo": "perfuração-horizontal-direcional---hdd.json",
+      "arquivo": "perfuração-horizontal-direcional-hdd.json",
       "composicoes": [
         "103615",
         "103637",
@@ -21098,7 +21098,7 @@
       ]
     },
     "Sistema de Proteção contra Descargas Atmosféricas - SPDA": {
-      "arquivo": "sistema-de-proteção-contra-descargas-atmosféricas---spda.json",
+      "arquivo": "sistema-de-proteção-contra-descargas-atmosféricas-spda.json",
       "composicoes": [
         "96987",
         "96989",
@@ -21238,7 +21238,7 @@
       ]
     },
     "Sistemas Hospitalares - Pontos de Consumo": {
-      "arquivo": "sistemas-hospitalares---pontos-de-consumo.json",
+      "arquivo": "sistemas-hospitalares-pontos-de-consumo.json",
       "composicoes": [
         "104827",
         "104828",
@@ -21751,7 +21751,7 @@
       ]
     },
     "Transporte Fluvial - Carga e Descarga": {
-      "arquivo": "transporte-fluvial---carga-e-descarga.json",
+      "arquivo": "transporte-fluvial-carga-e-descarga.json",
       "composicoes": [
         "105473",
         "105414",
@@ -21856,7 +21856,7 @@
       ]
     },
     "Transporte Fluvial - Momento de Transporte": {
-      "arquivo": "transporte-fluvial---momento-de-transporte.json",
+      "arquivo": "transporte-fluvial-momento-de-transporte.json",
       "composicoes": [
         "105511",
         "105507",
