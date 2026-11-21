@@ -110,7 +110,18 @@ def localizar(paginas, codigos):
 # ─── Caixa ───────────────────────────────────────────────────────────────────
 
 def listar_pdfs(page):
-    page.goto(PAGE_URL, wait_until="networkidle", timeout=120000)
+    # a página da Caixa às vezes nunca fica "networkidle" (scripts de terceiros): esperar só o HTML e tentar 3 vezes
+    for tentativa in range(1, 4):
+        try:
+            page.goto(PAGE_URL, wait_until="domcontentloaded", timeout=120000)
+            page.wait_for_selector("[data-categoria='533'], a[href='#categoria_533'], a[href*='SINAPI-CT']",
+                                   state="attached", timeout=60000)
+            break
+        except Exception as e:
+            print(f"  Caixa não respondeu (tentativa {tentativa}/3): {str(e).splitlines()[0]}")
+            if tentativa == 3:
+                raise
+            time.sleep(30 * tentativa)
     time.sleep(4)
     for sel in ("[data-categoria='533']", "a[href='#categoria_533']"):
         try:
