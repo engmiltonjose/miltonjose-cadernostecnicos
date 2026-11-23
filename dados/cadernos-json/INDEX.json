@@ -1,8 +1,8 @@
 {
-  "total_composicoes": 12042,
+  "total_composicoes": 12365,
   "total_cadernos": 173,
   "base_sinapi": "2026-10",
-  "atualizado_em": "2026-11-21T12:53:51+00:00",
+  "atualizado_em": "2026-11-23T21:54:00+00:00",
   "data": {
     "104658": "Acessibilidade",
     "105002": "Acessibilidade",
@@ -15102,7 +15102,7 @@
       ]
     },
     "Estruturas de Contenção - Estacas, Paredes Diafragma e Mureta Guia": {
-      "arquivo": "estruturas-de-contenção---estacas,-paredes-diafragma-e-mureta-guia.json",
+      "arquivo": "estruturas-de-contenção-estacas,-paredes-diafragma-e-mureta-guia.json",
       "composicoes": [
         "98616",
         "98619",
@@ -15334,7 +15334,7 @@
       ]
     },
     "Fachadas com Placas Cerâmicas e Granito - Insertadas": {
-      "arquivo": "fachadas-com-placas-cerâmicas-e-granito---insertadas.json",
+      "arquivo": "fachadas-com-placas-cerâmicas-e-granito-insertadas.json",
       "composicoes": [
         "105942",
         "105943",
@@ -16399,7 +16399,7 @@
       ]
     },
     "Instalações Elétricas - Eletrodutos, Conexões e Conduletes Aparentes": {
-      "arquivo": "instalações-elétricas---eletrodutos,-conexões-e-conduletes-aparentes.json",
+      "arquivo": "instalações-elétricas-eletrodutos,-conexões-e-conduletes-aparentes.json",
       "composicoes": [
         "95777",
         "95780",
@@ -16699,7 +16699,7 @@
       ]
     },
     "Instalações Elétricas - Quadros, Cabos, Disjuntores, Contatores e Barramentos Blindados": {
-      "arquivo": "instalações-elétricas---quadros,-cabos,-disjuntores,-contatores-e-barramentos-blindados.json",
+      "arquivo": "instalações-elétricas-quadros,-cabos,-disjuntores,-contatores-e-barramentos-blindados.json",
       "composicoes": [
         "101884",
         "101886",
@@ -16799,7 +16799,7 @@
       ]
     },
     "Instalações Elétricas - Rede de Distribuição": {
-      "arquivo": "instalações-elétricas---rede-de-distribuição.json",
+      "arquivo": "instalações-elétricas-rede-de-distribuição.json",
       "composicoes": [
         "101553",
         "101554",
@@ -19411,7 +19411,7 @@
       ]
     },
     "Paredes de Concreto - Concretagem": {
-      "arquivo": "paredes-de-concreto---concretagem.json",
+      "arquivo": "paredes-de-concreto-concretagem.json",
       "composicoes": [
         "99235",
         "105539",

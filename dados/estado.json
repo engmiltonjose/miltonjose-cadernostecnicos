@@ -462,7 +462,7 @@
    "etag": "\"{F4E70E87-C816-44E6-9DD4-7DD28EEBF0B5},4pub\"",
    "sha1": "a7bbbbbc121251dcaa186b7e5d7abb01a2e38b8f",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-ESTRUTURAS-DE-CONTENCAO-ESTACAS-PAREDES-DIAFRAGMA-E-MURETA-GUIA.pdf",
-   "processado_em": "2026-11-21T01:19:59+00:00"
+   "processado_em": "2026-11-23T21:52:56+00:00"
   },
   "SINAPI-CT-ESTRUTURAS-DE-CONTENCAO-PERFIS-PRANCHADOS-CORTINAS-E-MUROS-DE-ARRIMO.pdf": {
    "tamanho": 1660811,
@@ -510,7 +510,7 @@
    "etag": "\"{BE95151E-3465-44E9-88E3-2192D050CD39},4pub\"",
    "sha1": "23ad12c0dfedd1f8ea56e558c8e430bf767f859a",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-FACHADAS-COM-PLACAS-CERAMICAS-E-GRANITO-INSERTADAS.pdf",
-   "processado_em": "2026-11-21T01:21:13+00:00"
+   "processado_em": "2026-11-23T21:52:58+00:00"
   },
   "SINAPI-CT-FORMAS-CURVAS-PARA-PAREDES-DE-RESERVATORIOS-DE-CONCRETO.pdf": {
    "tamanho": 364191,
@@ -678,7 +678,7 @@
    "etag": "\"{8DFF2C01-987F-4BC8-81CF-B82419356958},4pub\"",
    "sha1": "6c29562099add068e17bcdaf37d0c9962ce013ae",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-ELETRICAS-ELETRODUTOS-CONEXOES-E-CONDULETES-APARENTES.pdf",
-   "processado_em": "2026-11-21T01:26:41+00:00"
+   "processado_em": "2026-11-23T21:53:10+00:00"
   },
   "SINAPI-CT-INSTALACOES-ELETRICAS-ELETRODUTOS-EMBUTIDOS-CABOS-CAIXAS-TOMADAS-E-INTERRUPTORES.pdf": {
    "tamanho": 7896768,
@@ -694,7 +694,7 @@
    "etag": "\"{7C6BA295-F46B-4DC6-8029-244C8D9B58DF},3pub\"",
    "sha1": "c6dff565e08b0ae62657df8c08fa5ea5586dddc9",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-ELETRICAS-QUADROS-CABOS-DISJUNTORES-CONTATORES-E-BARRAMENTOS-BLINDADOS.pdf",
-   "processado_em": "2026-11-21T01:27:51+00:00"
+   "processado_em": "2026-11-23T21:53:25+00:00"
   },
   "SINAPI-CT-INSTALACOES-ELETRICAS-REDE-DE-DISTRIBUICAO.pdf": {
    "tamanho": 6023400,
@@ -702,7 +702,7 @@
    "etag": "\"{5B205D6E-3453-47F7-BD39-D4F95C2FE306},3pub\"",
    "sha1": "63c0852c49e93ca37f5e39c94e96fb114dacf9f0",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-INSTALACOES-ELETRICAS-REDE-DE-DISTRIBUICAO.pdf",
-   "processado_em": "2026-11-21T01:28:34+00:00"
+   "processado_em": "2026-11-23T21:53:56+00:00"
   },
   "SINAPI-CT-INSTALACOES-EM-COBRE.pdf": {
    "tamanho": 7394121,
@@ -910,7 +910,7 @@
    "etag": "\"{36BDC14B-A16A-4BA3-8AFA-0A6991743530},6pub\"",
    "sha1": "b7685db1c3523444a8853b12f6b85f22cf8f7d72",
    "url": "https://www.caixa.gov.br/Downloads/sinapi-cadernos-tecnicos/SINAPI-CT-PAREDES-DE-CONCRETO-CONCRETAGEM.pdf",
-   "processado_em": "2026-11-21T01:38:48+00:00"
+   "processado_em": "2026-11-23T21:54:00+00:00"
   },
   "SINAPI-CT-PAREDES-DE-CONCRETO-ESTUCAMENTO.pdf": {
    "tamanho": 1840737,
@@ -1774,7 +1774,7 @@
    "assinatura": "2a06913f1af018355c5d20c5fb15ad51593b9844",
    "composicoes": 12,
    "com_texto": 12,
-   "processado_em": "2026-11-21T01:19:59+00:00"
+   "processado_em": "2026-11-23T21:52:56+00:00"
   },
   "Estruturas de Contenção - Perfis Pranchados, Cortinas e Muros de Arrimo": {
    "pdf": "SINAPI-CT-ESTRUTURAS-DE-CONTENCAO-PERFIS-PRANCHADOS-CORTINAS-E-MUROS-DE-ARRIMO.pdf",
@@ -1816,7 +1816,7 @@
    "assinatura": "4661e49e9e2b9ff33ff3297561fadcd303d9faf7",
    "composicoes": 6,
    "com_texto": 6,
-   "processado_em": "2026-11-21T01:21:13+00:00"
+   "processado_em": "2026-11-23T21:52:58+00:00"
   },
   "Fôrmas Curvas para Paredes de Reservatórios de Concreto": {
    "pdf": "SINAPI-CT-FORMAS-CURVAS-PARA-PAREDES-DE-RESERVATORIOS-DE-CONCRETO.pdf",
@@ -1970,7 +1970,7 @@
    "assinatura": "af67ab0b87f909f8c6c807d78788c1464c5cd58f",
    "composicoes": 88,
    "com_texto": 88,
-   "processado_em": "2026-11-21T01:26:41+00:00"
+   "processado_em": "2026-11-23T21:53:10+00:00"
   },
   "Instalações Elétricas - Eletrodutos Embutidos, Cabos, Caixas, Tomadas e Interruptores": {
    "pdf": "SINAPI-CT-INSTALACOES-ELETRICAS-ELETRODUTOS-EMBUTIDOS-CABOS-CAIXAS-TOMADAS-E-INTERRUPTORES.pdf",
@@ -1984,14 +1984,14 @@
    "assinatura": "fb0d1d8bfdcc4407ee5fe59c48c4c8da41030a7a",
    "composicoes": 95,
    "com_texto": 95,
-   "processado_em": "2026-11-21T01:27:51+00:00"
+   "processado_em": "2026-11-23T21:53:25+00:00"
   },
   "Instalações Elétricas - Rede de Distribuição": {
    "pdf": "SINAPI-CT-INSTALACOES-ELETRICAS-REDE-DE-DISTRIBUICAO.pdf",
    "assinatura": "d03f94361e4d4ce80dbe8b3eed2ede93584daefd",
    "composicoes": 106,
    "com_texto": 106,
-   "processado_em": "2026-11-21T01:28:34+00:00"
+   "processado_em": "2026-11-23T21:53:56+00:00"
   },
   "Instalações em Cobre": {
    "pdf": "SINAPI-CT-INSTALACOES-EM-COBRE.pdf",
@@ -2173,7 +2173,7 @@
    "assinatura": "f72f90414aad55fa965f91cae9e14bbf7b1da7b9",
    "composicoes": 16,
    "com_texto": 16,
-   "processado_em": "2026-11-21T01:38:48+00:00"
+   "processado_em": "2026-11-23T21:54:00+00:00"
   },
   "Paredes de Concreto - Estucamento": {
    "pdf": "SINAPI-CT-PAREDES-DE-CONCRETO-ESTUCAMENTO.pdf",
@@ -2576,5 +2576,5 @@
   }
  },
  "base_sinapi": "2026-10",
- "atualizado_em": "2026-11-21T12:53:51+00:00"
+ "atualizado_em": "2026-11-23T21:54:00+00:00"
 }
